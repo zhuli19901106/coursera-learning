@@ -5,9 +5,9 @@
 My lab works on Coursera, all secured with passwords.
 
 Coursera has an honor code, requesting that you should never make any content of your homework publicly available.
-So I lock mines up with passwords in archives.
+So I'd lock mines up with passwords in archives.
 
-It's just for the sake of preservation, not sharing.
+I put my things here simply as a means of backup, not sharing.
 
 <hr>
 
@@ -44,4 +44,15 @@ It's just for the sake of preservation, not sharing.
 <li>Grade: 100/100
 <li>Topic: functional programming, Scala
 <li>Review: A course to learn Scala as well as functional programming. I'm a freshman for FP, so the programming assignments did give me a little challenge. I guess when one gots so fixed in the mindsets of imperative and objective programming, the adaptation to FP can be rough. I'm gonna finish the whole specialization, as they're all free for now : )
+</ul>
+
+### Functional Program Design in Scala
+
+<ul>
+<li>Organization: <a href="https://www.epfl.ch/">École Polytechnique Fédérale de Lausanne</a>
+<li>URL: <a href="https://www.coursera.org/learn/progfun2/home/welcome">Functional Program Design in Scala | Coursera</a>
+<li>Time: May 25, 2017
+<li>Grade: 100/100
+<li>Topic: functional reactive programming, Scala
+<li>Review: Relatively short.
 </ul>
