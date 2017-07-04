@@ -56,3 +56,14 @@ I put my things here simply as a means of backup, not sharing.
 <li>Topic: functional reactive programming, Scala
 <li>Review: Relatively short.
 </ul>
+
+### Discrete Optimization
+
+<ul>
+<li>Organization: <a href="http://www.unimelb.edu.au/">University of Melbourne</a>
+<li>URL: <a href="https://www.coursera.org/learn/discrete-optimization">Discrete Optimization | Coursera</a>
+<li>Time: July 5, 2017
+<li>Grade: 93/100
+<li>Topic: combinatorial optimization, meta-heuristics, randomization
+<li>Review: Very challenging course which requires solid programming skill and lots of paper reading. Given the hands-on experience related to optimization techniques, it's totally worth all the time and efforts.
+</ul>
