@@ -7,7 +7,7 @@ My lab works on Coursera, all secured with passwords.
 Coursera has an honor code, requesting that you should never make any content of your homework publicly available.
 So I'd lock mines up with passwords in archives.
 
-I put my things here simply as a means of backup, not sharing.
+It's for backup, not sharing.
 
 <hr>
 
@@ -66,4 +66,15 @@ I put my things here simply as a means of backup, not sharing.
 <li>Grade: 93/100
 <li>Topic: combinatorial optimization, meta-heuristics, randomization
 <li>Review: Very challenging course which requires solid programming skill and lots of paper reading. Given the hands-on experience related to optimization techniques, it's totally worth all the time and efforts.
+</ul>
+
+### Parallel Programming
+
+<ul>
+<li>Organization: <a href="https://www.epfl.ch/">École Polytechnique Fédérale de Lausanne</a>
+<li>URL: <a href="https://www.coursera.org/learn/parprog1">Parallel Programming | Coursera</a>
+<li>Time: July 18, 2017
+<li>Grade: 100/100
+<li>Topic: scala programming, parallel computing, functional programming
+<li>Review: Third course of the specialization, relatively short and easy. The last pogramming assignment is fun, which is an N-body simulation problem.
 </ul>
