@@ -78,3 +78,14 @@ It's for backup, not sharing.
 <li>Topic: scala programming, parallel computing, functional programming
 <li>Review: Third course of the specialization, relatively short and easy. The last pogramming assignment is fun, which is an N-body simulation problem.
 </ul>
+
+### Game Theory
+
+<ul>
+<li>Organization: <a href="https://www.stanford.edu/">Stanford University</a>, <a href="https://www.ubc.ca/">The University of British Columbia</a>
+<li>URL: <a href="https://www.coursera.org/learn/game-theory-1/">Game Theory | Coursera</a>
+<li>Time: August 02, 2017
+<li>Grade: 100/100
+<li>Topic: game theory
+<li>Review: Introduction to introduction to game theory, all quiz no code.
+</ul>
