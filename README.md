@@ -89,3 +89,14 @@ It's for backup, not sharing.
 <li>Topic: game theory
 <li>Review: Introduction to introduction to game theory, all quiz no code.
 </ul>
+
+### Big Data Analysis with Scala and Spark
+
+<ul>
+<li>Organization: <a href="https://www.epfl.ch/">École Polytechnique Fédérale de Lausanne</a>
+<li>URL: <a href="https://www.coursera.org/learn/scala-spark-big-data/">Big Data Analysis with Scala and Spark | Coursera</a>
+<li>Time: August 12, 2017
+<li>Grade: 100/100
+<li>Topic: scala programming, parallel computing, spark programming
+<li>Review: Fourth course of the specialization, relatively short and easy. The programming assignments took me a whole lot of time putting the APIs right. It's something you have to go through when learning a computation framework, no way around. Besides, the lecturer talks rather fast, with 1.5x play speed and no caption, I had the opportunity to practice my listening skill, that's the real fun.
+</ul>
