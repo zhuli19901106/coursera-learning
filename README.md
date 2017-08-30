@@ -100,3 +100,14 @@ It's for backup, not sharing.
 <li>Topic: scala programming, parallel computing, spark programming
 <li>Review: Fourth course of the specialization, relatively short and easy. The programming assignments took me a whole lot of time putting the APIs right. It's something you have to go through when learning a computation framework, no way around. Besides, the lecturer talks rather fast, with 1.5x play speed and no caption, I had the opportunity to practice my listening skill, that's the real fun.
 </ul>
+
+### Introduction to Data Science in Python
+
+<ul>
+<li>Organization: <a href="https://www.umich.edu/">University of Michigan</a>
+<li>URL: <a href="https://www.coursera.org/learn/python-data-analysis/">Introduction to Data Science in Python | Coursera</a>
+<li>Time: August 30, 2017
+<li>Grade: 100/100
+<li>Topic: python programming, pandas, data science
+<li>Review: An introductory course in ipython and pandas. The interactive notebook called "Jupyter" has nice user experience. If you're looking to learn some pandas programming, try it out.
+</ul>
