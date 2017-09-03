@@ -111,3 +111,14 @@ It's for backup, not sharing.
 <li>Topic: python programming, pandas, data science
 <li>Review: An introductory course in ipython and pandas. The interactive notebook called "Jupyter" has nice user experience. If you're looking to learn some pandas programming, try it out.
 </ul>
+
+### Functional Programming in Scala Capstone
+
+<ul>
+<li>Organization: <a href="https://www.epfl.ch/">École Polytechnique Fédérale de Lausanne</a>
+<li>URL: <a href="https://www.coursera.org/learn/scala-capstone/">Functional Programming in Scala Capstone | Coursera</a>
+<li>Time: September 3, 2017
+<li>Grade: 100/100
+<li>Topic: scala programming, parallel computing, data visualization, spark programming
+<li>Review: Fifth course of the specialization, a step-by-step guide to a full scale project. The programming is challenging, while not at maths and algorithm, but at parallel programming, memorization, functional programming, all sorts of tweaking to make your code faster and tighter. The grader has a pretty tight memory limit of 1.5GB, which turned out to be a real headache, for you can experience failures randomly, making the programming assignment unnecessarily much harder. Still, every bit of effort pays off. Try it and see for yourself.
+</ul>
