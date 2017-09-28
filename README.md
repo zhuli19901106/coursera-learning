@@ -122,3 +122,14 @@ It's for backup, not sharing.
 <li>Topic: scala programming, parallel computing, data visualization, spark programming
 <li>Review: Fifth course of the specialization, a step-by-step guide to a full scale project. The programming is challenging, while not at maths and algorithm, but at parallel programming, memorization, functional programming, all sorts of tweaking to make your code faster and tighter. The grader has a pretty tight memory limit of 1.5GB, which turned out to be a real headache, for you can experience failures randomly, making the programming assignment unnecessarily much harder. Still, every bit of effort pays off. Try it and see for yourself.
 </ul>
+
+### Microeconomics Principles
+
+<ul>
+<li>Organization: <a href="http://illinois.edu/">University of Illinois at Urbana-Champaign</a>
+<li>URL: <a href="https://www.coursera.org/learn/microeconomics/">Microeconomics Principles | Coursera</a>
+<li>Time: September 23, 2017
+<li>Grade: 100/100
+<li>Topic: microeconomics
+<li>Review: An introductory course in microeconomics. I guess this is course 101 for economics major.
+</ul>
