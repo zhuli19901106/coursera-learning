@@ -133,3 +133,14 @@ It's for backup, not sharing.
 <li>Topic: microeconomics
 <li>Review: An introductory course in microeconomics. I guess this is course 101 for economics major.
 </ul>
+
+### Model Thinking
+
+<ul>
+<li>Organization: <a href="https://www.umich.edu/">University of Michigan</a>
+<li>URL: <a href="https://www.coursera.org/learn/model-thinking/">Model Thinking | Coursera</a>
+<li>Time: October 13, 2017
+<li>Grade: 100/100
+<li>Topic: social science
+<li>Review: An introductory course in social sciences. It's totally for high school students and undergraduate freshmen, with no rigorous math or hands-on case study projects. I guess I'm too old for this.
+</ul>
