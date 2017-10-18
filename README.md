@@ -144,3 +144,14 @@ It's for backup, not sharing.
 <li>Topic: social science
 <li>Review: An introductory course in social sciences. It's totally for high school students and undergraduate freshmen, with no rigorous math or hands-on case study projects. I guess I'm too old for this.
 </ul>
+
+### Introduction to Programming with MATLAB
+
+<ul>
+<li>Organization: <a href="https://www.vanderbilt.edu/">Vanderbilt University</a>
+<li>URL: <a href="https://www.coursera.org/learn/matlab/">Introduction to Programming with MATLAB | Coursera</a>
+<li>Time: October 18, 2017
+<li>Grade: 100/100
+<li>Topic: matlab programming
+<li>Review: An introductory course in matlab programming. I skipped the videos and went for the programming assignments directly. It's just some exercises to avoid getting all rusty.
+</ul>
