@@ -166,3 +166,14 @@ It's for backup, not sharing.
 <li>Topic: machine learning, scikit-learn, pandas, numpy
 <li>Review: A very well-designed course, teach you to do machine learning by calling all sorts of APIs. Actually, for small to middle-sized datasets, I think this kind of approach is quite handy, or shall we say, "lightweight". For extremely large datasets, small samples can be analyzed with toolkits like this to help make some sense, before we embark on deep learning and system-level optimizations.
 </ul>
+
+### Applied Text Mining in Python
+
+<ul>
+<li>Organization: <a href="https://www.umich.edu/">University of Michigan</a>
+<li>URL: <a href="https://www.coursera.org/learn/python-text-mining/">Applied Text Mining in Python | Coursera</a>
+<li>Time: October 31, 2017
+<li>Grade: 100/100
+<li>Topic: text mining, nltk, gensim
+<li>Review: A brief introduction on text mining, with a few exercises in python.
+</ul>
