@@ -177,3 +177,14 @@ It's for backup, not sharing.
 <li>Topic: text mining, nltk, gensim
 <li>Review: A brief introduction on text mining, with a few exercises in python.
 </ul>
+
+### Bayesian Statistics: From Concept to Data Analysis
+
+<ul>
+<li>Organization: <a href="https://www.ucsc.edu/">University of California, Santa Cruz</a>
+<li>URL: <a href="https://www.coursera.org/learn/bayesian-statistics/">Bayesian Statistics: From Concept to Data Analysis | Coursera</a>
+<li>Time: November 26, 2017
+<li>Grade: 100/100
+<li>Topic: bayesian statistics, inferential statistics
+<li>Review: I took this course for some background knowledge on statistics, as a prerequisite for Probabilistic Graphical Models.
+</ul>
