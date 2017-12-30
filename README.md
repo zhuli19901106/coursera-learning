@@ -18,9 +18,9 @@ It's for backup, not sharing.
 <ul>
 <li>Organization: <a href="http://www.princeton.edu/main/">Princeton University</a>
 <li>URL: <a href="https://www.coursera.org/learn/algorithms-part1/home/welcome">Algorithms, Part I | Coursera</a>
-<li>Time: Apr 2, 2017
+<li>Time: April 2, 2017
 <li>Grade: 98.6/100
-<li>Topic: ata structure, algorithm, Java
+<li>Topic: data structure, algorithm, Java
 <li>Review: The lecture speed was <b>a bit too slow</b>, so I had to go at between 1.25x and 1.5x speed to save time. Everything is really well explained, making this course <b>very friendly even for fresh beginners</b>. Actually I signed up for this just to do a little practice in Java programming. Considering the ammount of work devoted to the programming assignments, it was a wise decision to join up, well worth the time and efforts.
 </ul>
 
@@ -29,7 +29,7 @@ It's for backup, not sharing.
 <ul>
 <li>Organization: <a href="http://stanford.edu/">Stanford University</a>
 <li>URL: <a href="https://www.coursera.org/learn/machine-learning/home/welcome">Machine Learning | Coursera</a>
-<li>Time: Apr 29, 2017
+<li>Time: April 29, 2017
 <li>Grade: 100/100
 <li>Topic: machine learning, Matlab
 <li>Review: This is one of the "founding courses" of Coursera, thus it is supposed to be <b>easy and interesting</b> (otherwise people would've been scared off in the first place). So it is vital, for every programming assignment, that you try to <b>read and understand the 99% of codes already written for you</b>. The 1% for you to finish is really the trivial part. Otherwise there'll be no gain at all. Also it's fresh experience for those who get to <b>think in a vectorized manner</b> for the first time.
@@ -187,4 +187,15 @@ It's for backup, not sharing.
 <li>Grade: 100/100
 <li>Topic: bayesian statistics, inferential statistics
 <li>Review: I took this course for some background knowledge on statistics, as a prerequisite for Probabilistic Graphical Models.
+</ul>
+
+### Algorithms Part II
+
+<ul>
+<li>Organization: <a href="http://www.princeton.edu/main/">Princeton University</a>
+<li>URL: <a href="https://www.coursera.org/learn/algorithms-part2/">Algorithms, Part II | Coursera</a>
+<li>Time: December 30, 2017
+<li>Grade: 100/100
+<li>Topic: data structure, algorithm, Java
+<li>Review: <b>After being gone for so long, this course is finally back.</b> I don't really expect to learn anything new from it, just for old times' sake. The quizzes are gone, replaced by optional interview problems. The programming assignments are also much easier. <b>If you're new to Computer Science, this is one of the courses you can't miss.</b>
 </ul>
