@@ -199,3 +199,14 @@ It's for backup, not sharing.
 <li>Topic: data structure, algorithm, Java
 <li>Review: <b>After being gone for so long, this course is finally back.</b> I don't really expect to learn anything new from it, just for old times' sake. The quizzes are gone, replaced by optional interview problems. The programming assignments are also much easier. <b>If you're new to Computer Science, this is one of the courses you can't miss.</b>
 </ul>
+
+### Probabilistic Graphical Models 1: Representation
+
+<ul>
+<li>Organization: <a href="http://stanford.edu/">Stanford University</a>
+<li>URL: <a href="https://www.coursera.org/learn/probabilistic-graphical-models/">Probabilistic Graphical Models 1: Representation | Coursera</a>
+<li>Time: January 4, 2018
+<li>Grade: 100/100
+<li>Topic: bayesian inference, markov model, matlab
+<li>Review: This is the first course of the PGM series, which teaches you some basics of Bayesian inference, Markov network, factor graphs, etc. It's gonna be the building blocks of the bigger picture. If you're not quite familiar with algebra, calculus and probability theory, you're gonna have a hard time doing this. Also, this course is created in 2012, when Python han't risen to power, so you'll have to make do with Matlab. The programming assignments are about 50% reading comprehension, 40% researching and 10% coding. Make sure you take the time to do it by yourself. Cheating only takes ten minutes, and you'll gain nothing from it.
+</ul>
