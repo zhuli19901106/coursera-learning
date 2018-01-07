@@ -210,3 +210,14 @@ It's for backup, not sharing.
 <li>Topic: bayesian inference, markov model, matlab
 <li>Review: This is the first course of the PGM series, which teaches you some basics of Bayesian inference, Markov network, factor graphs, etc. It's gonna be the building blocks of the bigger picture. If you're not quite familiar with algebra, calculus and probability theory, you're gonna have a hard time doing this. Also, this course is created in 2012, when Python han't risen to power, so you'll have to make do with Matlab. The programming assignments are about 50% reading comprehension, 40% researching and 10% coding. Make sure you take the time to do it by yourself. Cheating only takes ten minutes, and you'll gain nothing from it.
 </ul>
+
+### Neural Networks and Deep Learning
+
+<ul>
+<li>Organization: <a href="http://stanford.edu/">Stanford University</a>
+<li>URL: <a href="https://www.coursera.org/learn/neural-networks-deep-learning/">Neural Networks and Deep Learning | Coursera</a>
+<li>Time: January 7, 2018
+<li>Grade: 100/100
+<li>Topic: deep learning, neural network, python
+<li>Review: This is the first course of the deep learning specialization by Professor Andrew Ng. <b>It's explicitly made extremely easy because they wish to let AI and Deep learning be known to the general public, not just math/CS/stats professionals.</b> The course is a brief introduction on basic feedforward neural network. If you're a CS major, you're supposed to be able to finish this course within 3 days. Still, the interviews with several leading figures is the greatest part of this course. It is the "sense" from those academic masters that's the most valuable part, which we should try to perceive and follow. The programming assignments are organized as step-by-step tutorials, which take on average within 2 hours to finish.
+</ul>
