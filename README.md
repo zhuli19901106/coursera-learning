@@ -232,3 +232,14 @@ It's for backup, not sharing.
 <li>Topic: deep learning, alchemy, python
 <li>Review: This is the second course of the deep learning specialization by Professor Andrew Ng. Still, extremely well organized, and easy.
 </ul>
+
+### Structuring Machine Learning Projects
+
+<ul>
+<li>Organization: <a href="https://www.deeplearning.ai/">deeplearning.ai</a>
+<li>URL: <a href="https://www.coursera.org/learn/machine-learning-projects/">Structuring Machine Learning Projects | Coursera</a>
+<li>Time: January 12, 2018
+<li>Grade: 100/100
+<li>Topic: deep learning, alchemy
+<li>Review: This is the third course of the deep learning specialization by Professor Andrew Ng. It's a two-week lecture on the techniques, rules and inspirations on the strategies to appply when working on deep learning projects. <b>It's basically about rules of thumbs, so don't try to obey everything to the letter and expect things to work like wonder if you do.</b> Think about it, learn from it, reflect upon it. Still, the most valuable part is always the interview with key figures from academia and industry.
+</ul>
