@@ -243,3 +243,14 @@ It's for backup, not sharing.
 <li>Topic: deep learning, alchemy
 <li>Review: This is the third course of the deep learning specialization by Professor Andrew Ng. It's a two-week lecture on the techniques, rules and inspirations on the strategies to appply when working on deep learning projects. <b>It's basically about rules of thumbs, so don't try to obey everything to the letter and expect things to work like wonder if you do.</b> Think about it, learn from it, reflect upon it. Still, the most valuable part is always the interview with key figures from academia and industry.
 </ul>
+
+### Convolutional Neural Networks
+
+<ul>
+<li>Organization: <a href="https://www.deeplearning.ai/">deeplearning.ai</a>
+<li>URL: <a href="https://www.coursera.org/learn/convolutional-neural-networks/">Convolutional Neural Networks | Coursera</a>
+<li>Time: January 21, 2018
+<li>Grade: 100/100
+<li>Topic: deep learning, alchemy
+<li>Review: This is the fourth course of the deep learning specialization by Professor Andrew Ng. It's about one of hottest catchphrases, CNN. Convolutional neural network is indeed powerful, in that it's much more effecient and flexible than old-school MLP. Things also begin to get really misty from this point, as you see one magical model after another, without getting any sense where the hell is the explainability. <b>If there's anything that's actually illuminating, it's the feature visualization of CNN and neural style transfer that help you make sense of what every part of a huge CNN can possibly do and what the hidden layers mean.</b>
+</ul>
