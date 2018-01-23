@@ -254,3 +254,14 @@ It's for backup, not sharing.
 <li>Topic: deep learning, alchemy
 <li>Review: This is the fourth course of the deep learning specialization by Professor Andrew Ng. It's about one of hottest catchphrases, CNN. Convolutional neural network is indeed powerful, in that it's much more effecient and flexible than old-school MLP. Things also begin to get really misty from this point, as you see one magical model after another, without getting any sense where the hell is the explainability. <b>If there's anything that's actually illuminating, it's the feature visualization of CNN and neural style transfer that help you make sense of what every part of a huge CNN can possibly do and what the hidden layers mean.</b>
 </ul>
+
+### Python Data Visualization
+
+<ul>
+<li>Organization: <a href="http://www.rice.edu/">Rice University</a>
+<li>URL: <a href="">Python Data Visualization | Coursera</a>
+<li>Time: January 23, 2018
+<li>Grade: 97.9/100
+<li>Topic: python, data visualization
+<li>Review: Finished within free trial.</b>
+</ul>
