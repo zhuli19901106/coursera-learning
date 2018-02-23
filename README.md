@@ -265,3 +265,14 @@ It's for backup, not sharing.
 <li>Topic: python, data visualization
 <li>Review: Finished within free trial.</b>
 </ul>
+
+### Sequence Models
+
+<ul>
+<li>Organization: <a href="https://www.deeplearning.ai/">deeplearning.ai</a>
+<li>URL: <a href="https://www.coursera.org/learn/nlp-sequence-models/">Sequence Models | Coursera</a>
+<li>Time: February 23, 2018
+<li>Grade: 100/100
+<li>Topic: deep learning, natural language processing, black magic
+<li>Review: This is the last course of the deep learning specialization by Professor Andrew Ng. It's said this one has been postponed for twice already, even this session was three days late for its declared launch date. **I can possibly imagine what kind of tight schedule they've been working on to put things together**. The course itself is good, **but too sloppy**. The learning experience is not quite enjoyable for a paid course. I expected better.
+</ul>
