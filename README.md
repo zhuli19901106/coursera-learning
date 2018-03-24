@@ -17,7 +17,7 @@ It's for backup, not sharing.
 
 <ul>
 <li>Organization: <a href="http://www.princeton.edu/main/">Princeton University</a>
-<li>URL: <a href="https://www.coursera.org/learn/algorithms-part1/home/welcome">Algorithms, Part I | Coursera</a>
+<li>URL: <a href="https://www.coursera.org/learn/algorithms-part1/">Algorithms, Part I | Coursera</a>
 <li>Time: April 2, 2017
 <li>Grade: 98.6/100
 <li>Topic: data structure, algorithm, Java
@@ -28,7 +28,7 @@ It's for backup, not sharing.
 
 <ul>
 <li>Organization: <a href="http://stanford.edu/">Stanford University</a>
-<li>URL: <a href="https://www.coursera.org/learn/machine-learning/home/welcome">Machine Learning | Coursera</a>
+<li>URL: <a href="https://www.coursera.org/learn/machine-learning/">Machine Learning | Coursera</a>
 <li>Time: April 29, 2017
 <li>Grade: 100/100
 <li>Topic: machine learning, Matlab
@@ -39,7 +39,7 @@ It's for backup, not sharing.
 
 <ul>
 <li>Organization: <a href="https://www.epfl.ch/">École Polytechnique Fédérale de Lausanne</a>
-<li>URL: <a href="https://www.coursera.org/learn/progfun1/home/welcome">Functional Programming Principles in Scala | Coursera</a>
+<li>URL: <a href="https://www.coursera.org/learn/progfun1/">Functional Programming Principles in Scala | Coursera</a>
 <li>Time: May 10, 2017
 <li>Grade: 100/100
 <li>Topic: functional programming, Scala
@@ -50,7 +50,7 @@ It's for backup, not sharing.
 
 <ul>
 <li>Organization: <a href="https://www.epfl.ch/">École Polytechnique Fédérale de Lausanne</a>
-<li>URL: <a href="https://www.coursera.org/learn/progfun2/home/welcome">Functional Program Design in Scala | Coursera</a>
+<li>URL: <a href="https://www.coursera.org/learn/progfun2/">Functional Program Design in Scala | Coursera</a>
 <li>Time: May 25, 2017
 <li>Grade: 100/100
 <li>Topic: functional reactive programming, Scala
@@ -275,4 +275,15 @@ It's for backup, not sharing.
 <li>Grade: 100/100
 <li>Topic: deep learning, natural language processing, black magic
 <li>Review: This is the last course of the deep learning specialization by Professor Andrew Ng. It's said this one has been postponed for twice already, even this session was three days late for its declared launch date. <b>I can possibly imagine what kind of tight schedule they've been working on to put things together</b>. The course itself is good, <b>but too sloppy</b>. The learning experience is not quite enjoyable for a paid course. I expected better.
+</ul>
+
+### Bitcoin and Cryptocurrency Technologies
+
+<ul>
+<li>Organization: <a href="http://www.princeton.edu/main/">Princeton University</a>
+<li>URL: <a href="https://www.coursera.org/learn/cryptocurrency/">Bitcoin and Cryptocurrency Technologies | Coursera</a>
+<li>Time: March 24, 2018
+<li>Grade: 92.3/100
+<li>Topic: bitcoin, blockchain, distributed computing
+<li>Review: I'm glad Princeton presented a course for cryptocurrency for **tech professionals**. I'd really love to learn some stuff that have great potential for a long-lasting impact in industry, not a tulip bubble or some foolish zero-sum games. **That's why I choose to view blockchain and cryptocurrency as two separate ideas**, of which the former is of more value to me.
 </ul>
