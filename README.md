@@ -4,10 +4,18 @@
 
 My lab works on Coursera, all secured with passwords.
 
-Coursera has an honor code, requesting that you should never make any content of your homework publicly available.
-So I'd lock mines up with passwords in archives.
+**Coursera has an honor code, requesting that you should never make any content of your homework publicly available.
+So I've locked mines up with passwords in archives.**
 
 It's for backup, not sharing.
+
+For those who're interested in starting their own journey in MOOC platforms like Coursera, I have written a memo here.
+
+<a href="https://zhuanlan.zhihu.com/p/35366209">Coursera Learning Notes</a> by Zhu Li on 2018.4.6.
+
+**All archives in this repo are locked, please don't bother cracking, there's nothing valuable inside after all, just a pile of my old homework.**
+
+If you think you've found something useful here, feel free to leave a star. **I'll be glad to know if my action is making this world better.**
 
 <hr>
 
