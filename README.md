@@ -304,5 +304,16 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Time: April 7, 2018
 <li>Grade: 100/100
 <li>Topic: finance, accounting
-<li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/financial-management">Financial Management Specialization</a>, I take this course to learn something about accounting, as a prior knowledge to financial engineering. The peer-reviwed assignment is good, though not enough people are willing to pay to join up, so you don't have as many classmates around the world to share insights with. **Still, peer review is a very idea-inspiring process,** it's quite different from working on computer programms and expect things to work exactly as you command. You actually seek difference from your own. **Investopedia is a good place to drop by.** You never get disappointed.
+<li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/financial-management">Financial Management Specialization</a>, I take this course to learn something about accounting, as a prior knowledge to financial engineering. The peer-reviewed assignment is good, though not enough people are willing to pay to join up, so you don't have as many classmates around the world to share insights with. **Still, peer review is a very idea-inspiring process,** it's quite different from working on computer programms and expect things to work exactly as you command. You actually seek difference from your own. **Investopedia is a good place to drop by.** You never get disappointed.
+</ul>
+
+### Financial Accounting: Advanced Topics
+
+<ul>
+<li>Organization: <a href="http://illinois.edu/">University of Illinois Urbana-Champaign</a>
+<li>URL: <a href="https://www.coursera.org/learn/financial-accounting-advanced/">Financial Accounting: Advanced Topics | Coursera</a>
+<li>Time: April 9, 2018
+<li>Grade: 99/100
+<li>Topic: finance, accounting
+<li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/financial-management">Financial Management Specialization</a>, still a short four-module course, with 4 quizzes and 1 peer-reviewed assignment. **The number of participants seemed a bit low, I had no choice but to wait a whole day before getting any response and having my assignment graded.** Still, I'm much luckier than the fellows I helped review. They actually waited a week or a month, you believe that? My god. I'm glad I helped them out.
 </ul>
