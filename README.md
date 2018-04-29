@@ -316,3 +316,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: finance, accounting
 <li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/financial-management">Financial Management Specialization</a>, still a short four-module course, with 4 quizzes and 1 peer-reviewed assignment. <b>The number of participants seemed a bit low, I had no choice but to wait a whole day before getting any response and having my assignment graded.</b> Still, I'm much luckier than the fellows I helped review. They actually waited a week or a month, you believe that? My god. I'm glad I helped them out.
 </ul>
+
+### Investments I: Fundamentals of Performance Evaluation
+
+<ul>
+<li>Organization: <a href="http://illinois.edu/">University of Illinois Urbana-Champaign</a>
+<li>URL: <a href="https://www.coursera.org/learn/investments-fundamentals/">Financial Investments I: Fundamentals of Performance Evaluation | Coursera</a>
+<li>Time: April 29, 2018
+<li>Grade: 97.1/100
+<li>Topic: finance, accounting, investment
+<li>Review: This is the third course of the <a href="https://www.coursera.org/specializations/financial-management">Financial Management Specialization</a>, a four-module course. Brace yourself because this is a rather intensive one, with extremely long lectures and several peer-reviewed assignments. Don't rush to finish it by skipping the videos and go directly for the homework. I find watching the lectures very rewarding because <b>Professor Weisbenner is a rather funny guy and his lectures share a lot of insights and experiences</b>, which is far more valuable than what you'll get by simply finishing the course. Take the chance to communicate with brilliant minds whenever you have the chance. <b>Homeworks are trivial if you've really devoted yourself to the learnig process and tried to enjoy it, otherwise they'll just be chores and boring to the death.</b> I have a memo for this course on <a href="https://zhuanlan.zhihu.com/p/35523831">Zhihu</a>.
+</ul>
