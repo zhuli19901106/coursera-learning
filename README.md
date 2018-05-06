@@ -327,3 +327,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: finance, accounting, investment
 <li>Review: This is the third course of the <a href="https://www.coursera.org/specializations/financial-management">Financial Management Specialization</a>, a four-module course. Brace yourself because this is a rather intensive one, with extremely long lectures and several peer-reviewed assignments. Don't rush to finish it by skipping the videos and go directly for the homework. I find watching the lectures very rewarding because <b>Professor Weisbenner is a rather funny guy and his lectures share a lot of insights and experiences</b>, which is far more valuable than what you'll get by simply finishing the course. Take the chance to communicate with brilliant minds whenever you have the chance. <b>Homeworks are trivial if you've really devoted yourself to the learnig process and tried to enjoy it, otherwise they'll just be chores and boring to the death.</b> I have a memo for this course on <a href="https://zhuanlan.zhihu.com/p/35523831">Zhihu</a>.
 </ul>
+
+### Investments II: Lessons and Applications for Investors
+
+<ul>
+<li>Organization: <a href="http://illinois.edu/">University of Illinois Urbana-Champaign</a>
+<li>URL: <a href="https://www.coursera.org/learn/investments-applications/">Investments II: Lessons and Applications for Investors | Coursera</a>
+<li>Time: May 7, 2018
+<li>Grade: 100/100
+<li>Topic: finance, investment
+<li>Review: This is the fourth course of the <a href="https://www.coursera.org/specializations/financial-management">Financial Management Specialization</a>, a four-module course. This time the assignments are rather trivial, so it's basically a lecture-only course. <b>Still, I'm willing to rate it 5-star because the lectures are even better prepared than the previous one.</b> If only we had more excellent courses like this. I have a memo for this course on <a href="https://zhuanlan.zhihu.com/p/36270579">Zhihu</a>.
+</ul>
