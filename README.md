@@ -338,3 +338,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: finance, investment
 <li>Review: This is the fourth course of the <a href="https://www.coursera.org/specializations/financial-management">Financial Management Specialization</a>, a four-module course. This time the assignments are rather trivial, so it's basically a lecture-only course. <b>Still, I'm willing to rate it 5-star because the lectures are even better prepared than the previous one.</b> If only we had more excellent courses like this. I have a memo for this course on <a href="https://zhuanlan.zhihu.com/p/36270579">Zhihu</a>.
 </ul>
+
+### Private Equity and Venture Capital
+
+<ul>
+<li>Organization: <a href="https://www.unibocconi.eu/">Università Bocconi</a>
+<li>URL: <a href="https://www.coursera.org/learn/private-equity/">Private Equity and Venture Capital | Coursera</a>
+<li>Time: May 12, 2018
+<li>Grade: 100/100
+<li>Topic: private equity, venture capital, finance
+<li>Review: This is an introductory course on private equity and venture capital, without explicit need for background knowledge in finance, economics and accounting. It would be good to learn something like this before you embark on some serious education in finance and investment. <b>It's a good starting point, well worth the time.</b>
+</ul>
