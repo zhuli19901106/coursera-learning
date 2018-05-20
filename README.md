@@ -349,3 +349,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: private equity, venture capital, finance
 <li>Review: This is an introductory course on private equity and venture capital, without explicit need for background knowledge in finance, economics and accounting. It would be good to learn something like this before you embark on some serious education in finance and investment. <b>It's a good starting point, well worth the time.</b>
 </ul>
+
+### Corporate Finance I: Measuring and Promoting Value Creation
+
+<ul>
+<li>Organization: <a href="http://illinois.edu/">University of Illinois Urbana-Champaign</a>
+<li>URL: <a href="https://www.coursera.org/learn/corporate-finance-measure-success/">Corporate Finance I: Measuring and Promoting Value Creation | Coursera</a>
+<li>Time: May 20, 2018
+<li>Grade: 100/100
+<li>Topic: corporate finance, investment management
+<li>Review: This is the fifth course of the <a href="https://www.coursera.org/specializations/financial-management">Financial Management Specialization</a>, a four-module course. This course has 4 quizzes and 4 peer-review assignments, of which the former are mandatory while the latter optional. <b>It's an introductory on corporate finance, which is closely related to the previous two courses taught by Professor Weisbenner.</b> I have a memo for this course on <a href="https://zhuanlan.zhihu.com/p/36771139">Zhihu</a>.
+</ul>
