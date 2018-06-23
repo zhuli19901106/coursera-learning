@@ -360,3 +360,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: corporate finance, investment management
 <li>Review: This is the fifth course of the <a href="https://www.coursera.org/specializations/financial-management">Financial Management Specialization</a>, a four-module course. This course has 4 quizzes and 4 peer-review assignments, of which the former are mandatory while the latter optional. <b>It's an introductory on corporate finance, which is closely related to the previous two courses taught by Professor Weisbenner.</b> I have a memo for this course on <a href="https://zhuanlan.zhihu.com/p/36771139">Zhihu</a>.
 </ul>
+
+### Corporate Finance II: Financing Investments and Managing Risk
+
+<ul>
+<li>Organization: <a href="http://illinois.edu/">University of Illinois Urbana-Champaign</a>
+<li>URL: <a href="https://www.coursera.org/learn/corporate-finance-two/">Corporate Finance II: Financing Investments and Managing Risk | Coursera</a>
+<li>Time: June 24, 2018
+<li>Grade: 100/100
+<li>Topic: corporate finance, investment management, private equity
+<li>Review: This is the sixth course of the <a href="https://www.coursera.org/specializations/financial-management">Financial Management Specialization</a>, a four-module course. Recently I've been extremely busy with my job, almost got no time for this. That's why it took me so long to finish the course this time. I have a memo for this course on <a href="https://zhuanlan.zhihu.com/p/37131534">Zhihu</a>, although I'm almost too reluctant to bother taking notes. It's just that you got so occupied, you don't have the spirit for MOOCs like the way you used to be.
+</ul>
