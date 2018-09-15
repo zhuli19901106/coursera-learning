@@ -371,3 +371,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: corporate finance, investment management, private equity
 <li>Review: This is the sixth course of the <a href="https://www.coursera.org/specializations/financial-management">Financial Management Specialization</a>, a four-module course. Recently I've been extremely busy with my job, almost got no time for this. That's why it took me so long to finish the course this time. I have a memo for this course on <a href="https://zhuanlan.zhihu.com/p/37131534">Zhihu</a>, although I'm almost too reluctant to bother taking notes. It's just that you got so occupied, you don't have the spirit for MOOCs like the way you used to be.
 </ul>
+
+### Moralities of Everyday Life
+
+<ul>
+<li>Organization: <a href="https://www.yale.edu/">Yale University</a>
+<li>URL: <a href="https://www.coursera.org/learn/moralities/">Moralities of Everyday Life | Coursera</a>
+<li>Time: September 15, 2018
+<li>Grade: 100/100
+<li>Topic: psychology, philosophy, sociology
+<li>Review: This isn't a course that teaches you anything practical in terms of job-seeking or money-making. It's about more profound questions of human society and existence. If elite universities like Harvard and Yale are deemed as elites, this is the type of education that makes them qualified.
+</ul>
