@@ -382,3 +382,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: psychology, philosophy, sociology
 <li>Review: This isn't a course that teaches you anything practical in terms of job-seeking or money-making. It's about more profound questions of human society and existence. If elite universities like Harvard and Yale are deemed as elites, this is the type of education that makes them qualified.
 </ul>
+
+### The Global Financial Crisis
+
+<ul>
+<li>Organization: <a href="https://www.yale.edu/">Yale University</a>
+<li>URL: <a href="https://www.coursera.org/learn/global-financial-crisis/">The Global Financial Crisis | Coursera</a>
+<li>Time: September 27, 2018
+<li>Grade: 100/100
+<li>Topic: economics, finance
+<li>Review: This is an in-depth case study course for the global financial crisis. It's accompanied by sufficient quizzes and lectured by <b>Yale professor Andrew Metrick and former Secretary of Treasury Timothy Geithner</b>. Yale quality, don't miss it.
+</ul>
