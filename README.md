@@ -393,3 +393,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: economics, finance
 <li>Review: This is an in-depth case study course for the global financial crisis. It's accompanied by sufficient quizzes and lectured by <b>Yale professor Andrew Metrick and former Secretary of Treasury Timothy Geithner</b>. Yale quality, don't miss it.
 </ul>
+
+### Financial Markets
+
+<ul>
+<li>Organization: <a href="https://www.yale.edu/">Yale University</a>
+<li>URL: <a href="https://www.coursera.org/learn/financial-markets-global">Financial Markets | Coursera</a>
+<li>Time: October 14, 2018
+<li>Grade: 100/100
+<li>Topic: economics, finance
+<li>Review: This is an introductory course in finance. I just want to hear some advice from a Nobel Prize laureate.
+</ul>
