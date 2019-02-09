@@ -404,3 +404,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: economics, finance
 <li>Review: This is an introductory course in finance. I just want to hear some advice from a Nobel Prize laureate.
 </ul>
+
+### Firm Level Economics: Consumer and Producer Behavior
+
+<ul>
+<li>Organization: <a href="http://illinois.edu/">University of Illinois Urbana-Champaign</a>
+<li>URL: <a href="https://www.coursera.org/learn/firm-level-economics/">Firm Level Economics: Consumer and Producer Behavior | Coursera</a>
+<li>Time: February 9, 2019
+<li>Grade: 98.1/100
+<li>Topic: microeconomics, finance
+<li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/managerial-economics-business-analysis">Managerial Economics and Business Analysis Specialization</a>. Lots of peer-reviewed assignments, luckily there're lots of enrollers as well, so the feedback can be rather timely.
+</ul>
