@@ -415,3 +415,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: microeconomics, finance
 <li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/managerial-economics-business-analysis">Managerial Economics and Business Analysis Specialization</a>. Lots of peer-reviewed assignments, luckily there're lots of enrollers as well, so the feedback can be rather timely.
 </ul>
+
+### Practical Time Series Analysis
+
+<ul>
+<li>Organization: <a href="https://www.suny.edu/">State University of New York</a>
+<li>URL: <a href="https://www.coursera.org/learn/practical-time-series-analysis/">Practical Time Series Analysis | Coursera</a>
+<li>Time: February 15, 2019
+<li>Grade: 100/100
+<li>Topic: time series analysis, stochastic process
+<li>Review: I thought this course was easy, but it turned out to be more mathy than I expected. The things taught here are rather traditional, but can be good training for a data scientist. Neural networks are expressive, but not so intepretable. Better learn some maths to keep your brain from getting so rusty, that you can only rely on superstition of RNG and SGD.<b>It's the way of thinking that's worth the time and efforts.</b> I have a <a href="https://zhuanlan.zhihu.com/p/47810399">memo</a> here.
+</ul>
