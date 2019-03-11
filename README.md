@@ -426,3 +426,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: time series analysis, stochastic process
 <li>Review: I thought this course was easy, but it turned out to be more mathy than I expected. The things taught here are rather traditional, but can be good training for a data scientist. Neural networks are expressive, but not so intepretable. Better learn some maths to keep your brain from getting so rusty, that you can only rely on superstition of RNG and SGD.<b>It's the way of thinking that's worth the time and efforts.</b> I have a <a href="https://zhuanlan.zhihu.com/p/47810399">memo</a> here.
 </ul>
+
+### Firm Level Economics: Markets and Allocations
+
+<ul>
+<li>Organization: <a href="http://illinois.edu/">University of Illinois Urbana-Champaign</a>
+<li>URL: <a href="https://www.coursera.org/learn/firm-level-economics-markets/">Firm Level Economics: Markets and Allocations | Coursera</a>
+<li>Time: March 11, 2019
+<li>Grade: 100/100
+<li>Topic: microeconomics, finance
+<li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/managerial-economics-business-analysis">Managerial Economics and Business Analysis Specialization</a>. Just get it done and get ready for macroeconomics. A <a href="https://zhuanlan.zhihu.com/p/56903267">memo</a> here, well as usual.
+</ul>
