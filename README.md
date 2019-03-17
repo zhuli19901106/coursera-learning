@@ -437,3 +437,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: microeconomics, finance
 <li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/managerial-economics-business-analysis">Managerial Economics and Business Analysis Specialization</a>. Just get it done and get ready for macroeconomics. A <a href="https://zhuanlan.zhihu.com/p/56903267">memo</a> here, well as usual.
 </ul>
+
+### What is Data Science?
+
+<ul>
+<li>Organization: <a href="https://www.ibm.com/">IBM</a>
+<li>URL: <a href="https://www.coursera.org/learn/what-is-datascience/">What is Data Science? | Coursera</a>
+<li>Time: March 18, 2019
+<li>Grade: 97/100
+<li>Topic: data science
+<li>Review: Too easy to afford another day.
+</ul>
