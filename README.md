@@ -448,3 +448,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: data science
 <li>Review: Too easy to afford another day.
 </ul>
+
+### Open Source tools for Data Science
+
+<ul>
+<li>Organization: <a href="https://www.ibm.com/">IBM</a>
+<li>URL: <a href="https://www.coursera.org/learn/open-source-tools-for-data-science/">Open Source tools for Data Science | Coursera</a>
+<li>Time: March 18, 2019
+<li>Grade: 100/100
+<li>Topic: data science
+<li>Review: Too easy to afford another day.
+</ul>
