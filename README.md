@@ -470,3 +470,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: data science
 <li>Review: Too easy to afford another day.
 </ul>
+
+### Python for Data Science
+
+<ul>
+<li>Organization: <a href="https://www.ibm.com/">IBM</a>
+<li>URL: <a href="https://www.coursera.org/learn/python-for-applied-data-science/">Python for Data Science | Coursera</a>
+<li>Time: March 19, 2019
+<li>Grade: 100/100
+<li>Topic: python, data science
+<li>Review: Too easy to afford another day.
+</ul>
