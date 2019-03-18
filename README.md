@@ -459,3 +459,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: data science
 <li>Review: Too easy to afford another day.
 </ul>
+
+### Data Science Methodology
+
+<ul>
+<li>Organization: <a href="https://www.ibm.com/">IBM</a>
+<li>URL: <a href="https://www.coursera.org/learn/data-science-methodology/">Data Science Methodology | Coursera</a>
+<li>Time: March 19, 2019
+<li>Grade: 98.9/100
+<li>Topic: data science
+<li>Review: Too easy to afford another day.
+</ul>
