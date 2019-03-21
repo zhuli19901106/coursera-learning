@@ -481,3 +481,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: python, data science
 <li>Review: Too easy to afford another day.
 </ul>
+
+### Databases and SQL for Data Science
+
+<ul>
+<li>Organization: <a href="https://www.ibm.com/">IBM</a>
+<li>URL: <a href="https://www.coursera.org/learn/sql-data-science/">Databases and SQL for Data Science | Coursera</a>
+<li>Time: March 22, 2019
+<li>Grade: 100/100
+<li>Topic: python, sql
+<li>Review: It's easy, but no longer a no-brainer course. At least it takes you some time to design the sql query. **One thing especially terrible about this course is the DB2 Console, just lame.** The resource quota allocated for you was just too thin to make it work normally. Apart from this, I would say this course is still well-organized, if only we could do it with MySQL and Jupyter Notebook. It's IBM course after all, what else can I say? **I expect better QoS from you, IBM.**
+</ul>
