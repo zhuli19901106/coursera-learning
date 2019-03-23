@@ -492,3 +492,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: python, sql
 <li>Review: It's easy, but no longer a no-brainer course. At least it takes you some time to design the sql query. <b>One thing especially terrible about this course is the DB2 Console, just lame.</b> The resource quota allocated for you was just too thin to make it work normally. Apart from this, I would say this course is still well-organized, if only we could do it with MySQL and Jupyter Notebook. It's IBM course after all, what else can I say? <b>I expect better QoS from you, IBM.</b>
 </ul>
+
+### Data Analysis with Python
+
+<ul>
+<li>Organization: <a href="https://www.ibm.com/">IBM</a>
+<li>URL: <a href="https://www.coursera.org/learn/data-analysis-with-python/">Data Analysis with Python | Coursera</a>
+<li>Time: March 24, 2019
+<li>Grade: 100/100
+<li>Topic: python, pandas, scikit-learn
+<li>Review: No problem.
+</ul>
