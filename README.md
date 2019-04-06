@@ -504,6 +504,18 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Review: No problem.
 </ul>
 
+### Data Visualization with Python
+
+<ul>
+<li>Organization: <a href="https://www.ibm.com/">IBM</a>
+<li>URL: <a href="https://www.coursera.org/learn/python-for-data-visualization/">Data Visualization with Python
+| Coursera</a>
+<li>Time: March 31, 2019
+<li>Grade: 100/100
+<li>Topic: python, data visualization
+<li>Review: jupyter, matplotlib, seaborn, folium.
+</ul>
+
 ### Machine Learning with Python
 
 <ul>
