@@ -503,3 +503,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: python, pandas, scikit-learn
 <li>Review: No problem.
 </ul>
+
+### Machine Learning with Python
+
+<ul>
+<li>Organization: <a href="https://www.ibm.com/">IBM</a>
+<li>URL: <a href="https://www.coursera.org/learn/machine-learning-with-python/">Machine Learning with Python | Coursera</a>
+<li>Time: April 6, 2019
+<li>Grade: 100/100
+<li>Topic: python, pandas, scikit-learn
+<li>Review: This is actually the capstone course for another specialization. Well-organized and user-friendly, I would say. It's basically an sklearn tutorial.
+</ul>
