@@ -526,3 +526,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: python, pandas, scikit-learn
 <li>Review: This is actually the capstone course for another specialization. Well-organized and user-friendly, I would say. It's basically an sklearn tutorial.
 </ul>
+
+### Introduction to Mathematical Thinking
+
+<ul>
+<li>Organization: <a href="https://www.stanford.edu/">Stanford University</a>
+<li>URL: <a href="https://www.coursera.org/learn/mathematical-thinking/">Introduction to Mathematical Thinking | Coursera</a>
+<li>Time: April 26, 2019
+<li>Grade: 100/100
+<li>Topic: mathematics
+<li>Review: This is a rather interesting math course. It's very inspiring and not too tough. Try it if you're still undergraduate-level. If you're already getting a Master or Doctor's degree, it's gonna be too easy for you, thus spoiling the fun.
+</ul>
