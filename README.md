@@ -537,3 +537,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: mathematics
 <li>Review: This is a rather interesting math course. It's very inspiring and not too tough. Try it if you're still undergraduate-level. If you're already getting a Master or Doctor's degree, it's gonna be too easy for you, thus spoiling the fun.
 </ul>
+
+### Getting Started with Go
+
+<ul>
+<li>Organization: <a href="https://uci.edu/">University of California, Irvine</a>
+<li>URL: <a href="https://www.coursera.org/learn/golang-getting-started/">Getting Started with Go | Coursera</a>
+<li>Time: June 2, 2019
+<li>Grade: 100/100
+<li>Topic: go
+<li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/google-golang">Programming with Google Go Specialization</a>. No problem.
+</ul>
