@@ -548,3 +548,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: go
 <li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/google-golang">Programming with Google Go Specialization</a>. No problem.
 </ul>
+
+### Functions, Methods, and Interfaces in Go
+
+<ul>
+<li>Organization: <a href="https://uci.edu/">University of California, Irvine</a>
+<li>URL: <a href="https://www.coursera.org/learn/golang-functions-methods/">Functions, Methods, and Interfaces in Go | Coursera</a>
+<li>Time: June 8, 2019
+<li>Grade: 100/100
+<li>Topic: go
+<li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/google-golang">Programming with Google Go Specialization</a>. Just get it done.
+</ul>
