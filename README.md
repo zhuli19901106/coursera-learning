@@ -559,3 +559,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: go
 <li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/google-golang">Programming with Google Go Specialization</a>. Just get it done.
 </ul>
+
+### Concurrency in Go
+
+<ul>
+<li>Organization: <a href="https://uci.edu/">University of California, Irvine</a>
+<li>URL: <a href="https://www.coursera.org/learn/golang-concurrency/">Concurrency in Go | Coursera</a>
+<li>Time: June 21, 2019
+<li>Grade: 100/100
+<li>Topic: go
+<li>Review: This is the third course of the <a href="https://www.coursera.org/specializations/google-golang">Programming with Google Go Specialization</a>. No problem. Done with this specialization.
+</ul>
