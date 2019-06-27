@@ -548,3 +548,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: go
 <li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/google-golang">Programming with Google Go Specialization</a>. No problem.
 </ul>
+
+### Mathematics for Machine Learning: Linear Algebra
+
+<ul>
+<li>Organization: <a href="https://www.imperial.ac.uk/">Imperial College London</a>
+<li>URL: <a href="https://www.coursera.org/learn/linear-algebra-machine-learning/">Mathematics for Machine Learning: Linear Algebra | Coursera</a>
+<li>Time: June 28, 2019
+<li>Grade: 100/100
+<li>Topic: linear algebra
+<li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/mathematics-machine-learning/">Mathematics for Machine Learning Specialization</a>. The topic itself is entry level, but I'd say this course is well-prepared and of high quality. Good revision.
+</ul>
