@@ -592,3 +592,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: linear algebra
 <li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/mathematics-machine-learning/">Mathematics for Machine Learning Specialization</a>. The topic itself is entry level, but I'd say this course is well-prepared and of high quality. Good revision.
 </ul>
+
+### Mathematics for Machine Learning: Multivariate Calculus
+
+<ul>
+<li>Organization: <a href="https://www.imperial.ac.uk/">Imperial College London</a>
+<li>URL: <a href="https://www.coursera.org/learn/multivariate-calculus-machine-learning">Mathematics for Machine Learning: Multivariate Calculus | Coursera</a>
+<li>Time: July 1, 2019
+<li>Grade: 100/100
+<li>Topic: vector calculus
+<li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/mathematics-machine-learning/">Mathematics for Machine Learning Specialization</a>. Routine.
+</ul>
