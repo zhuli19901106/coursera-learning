@@ -603,3 +603,14 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Topic: vector calculus
 <li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/mathematics-machine-learning/">Mathematics for Machine Learning Specialization</a>. Routine.
 </ul>
+
+### Mathematics for Machine Learning: PCA
+
+<ul>
+<li>Organization: <a href="https://www.imperial.ac.uk/">Imperial College London</a>
+<li>URL: <a href="https://www.coursera.org/learn/pca-machine-learning">Mathematics for Machine Learning: PCA | Coursera</a>
+<li>Time: July 4, 2019
+<li>Grade: 100/100
+<li>Topic: linear algebra, vector calculus
+<li>Review: This is the <b>last course</b> of the <a href="https://www.coursera.org/specializations/mathematics-machine-learning/">Mathematics for Machine Learning Specialization</a>. I'd say the code in the notebook wasn't quite well-written. Some of them has to be reorganized so as to run efficiently.
+</ul>
