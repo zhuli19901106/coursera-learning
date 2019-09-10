@@ -4,7 +4,7 @@
 
 This is a repo for storing my labworks on Coursera, all secured with passwords.
 
-**Coursera has an honor code, requesting that you should never make any content of your homework publicly available. So I've locked them up in archives.**
+<b>Coursera has an honor code, requesting that you should never make any content of your homework publicly available. So I've locked them up in archives.</b>
 
 It's just for backup, not sharing.
 
@@ -12,9 +12,9 @@ For those who might be interested in starting their own journey in MOOC platform
 
 <a href="https://zhuanlan.zhihu.com/p/35366209">Coursera Learning Notes</a> by Zhu Li on 2018.4.6.
 
-**All archives in this repo are locked, please don't bother cracking, there's nothing valuable inside after all, just a pile of my old homework.**
+<b>All archives in this repo are locked, please don't bother cracking, there's nothing valuable inside after all, just a pile of my old homework.</b>
 
-If you think you've found something useful here, feel free to leave a star. **I'll be glad to know if my action is making this world better, by raising a helping hand.**
+If you think you've found something useful here, feel free to leave a star. <b>I'll be glad to know if my action is making this world better, by raising a helping hand.</b>
 
 <hr>
 
@@ -623,5 +623,16 @@ If you think you've found something useful here, feel free to leave a star. **I'
 <li>Time: September 7, 2019
 <li>Grade: 99.3/100
 <li>Topic: microservice
-<li>Review: This is the first of the <a href="https://www.coursera.org/specializations/ibm-microservices">IBM Microservices Specialization</a>. It's rather methodological and boring.
+<li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/ibm-microservices">IBM Microservices Specialization</a>. It's rather methodological and boring.
+</ul>
+
+### Developing and Deploying Microservices with Microclimate
+
+<ul>
+<li>Organization: <a href="https://www.ibm.com/">IBM</a>
+<li>URL: <a href="https://www.coursera.org/learn/ibm-microservice-microclimate/">Developing and Deploying Microservices with Microclimate | Coursera</a>
+<li>Time: September 11, 2019
+<li>Grade: 99/100
+<li>Topic: devops, microservice
+<li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/ibm-microservices">IBM Microservices Specialization</a>. I'm <b>even less impressed</b> with this one. Some course contents are directly copied from course 1. Is that responsible for students who paid? Besides, it's not difficult to see that the Microclimate product is out of maintenance, as their CICD pipeline docker image doesn't even build. <b>IBM was a great company</b>. Their ideas still are, but their blades already rusty.
 </ul>
