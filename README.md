@@ -636,3 +636,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: devops, microservice
 <li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/ibm-microservices">IBM Microservices Specialization</a>. I'm <b>even less impressed</b> with this one. Some course contents are directly copied from course 1. Is that responsible for students who paid? Besides, it's not difficult to see that the Microclimate product is out of maintenance, as their CICD pipeline docker image doesn't even build. <b>IBM was a great company</b>. Their ideas still are, but their blades already rusty.
 </ul>
+
+### Introduction to Augmented Reality and ARCore
+
+<ul>
+<li>Organization: <a href="https://www.google.com/">Google</a>
+<li>URL: <a href="https://www.coursera.org/learn/ar/">Introduction to Augmented Reality and ARCore | Coursera</a>
+<li>Time: September 12, 2019
+<li>Grade: 100/100
+<li>Topic: augmented reality
+<li>Review: A well-made introductory course for AR, worth a sightseeing trip for one day.
+</ul>
