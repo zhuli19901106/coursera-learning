@@ -647,3 +647,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: augmented reality
 <li>Review: A well-made introductory course for AR, worth a sightseeing trip for one day.
 </ul>
+
+### IBM Cloud: Deploying Microservices with Kubernetes
+
+<ul>
+<li>Organization: <a href="https://www.ibm.com/">IBM</a>
+<li>URL: <a href="https://www.coursera.org/learn/deploy-micro-kube-ibm-cloud/">IBM Cloud: Deploying Microservices with Kubernetes | Coursera</a>
+<li>Time: September 17, 2019
+<li>Grade: 100/100
+<li>Topic: devops, kubernetes, docker
+<li>Review: This is the third course of the <a href="https://www.coursera.org/specializations/ibm-microservices">IBM Microservices Specialization</a>. The quality of this course is fair. I'd say it's a friendly tutorial for k8s concepts, worth about two days of study.
+</ul>
