@@ -658,3 +658,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: devops, kubernetes, docker
 <li>Review: This is the third course of the <a href="https://www.coursera.org/specializations/ibm-microservices">IBM Microservices Specialization</a>. The quality of this course is fair. I'd say it's a friendly tutorial for k8s concepts, worth about two days of study.
 </ul>
+
+### IBM Cloud Private: Deploying Microservices with Kubernetes
+
+<ul>
+<li>Organization: <a href="https://www.ibm.com/">IBM</a>
+<li>URL: <a href="https://www.coursera.org/learn/deploy-micro-kube-icp/">IBM Cloud Private: Deploying Microservices with Kubernetes | Coursera</a>
+<li>Time: September 20, 2019
+<li>Grade: 100/100
+<li>Topic: devops, kubernetes
+<li>Review: This is the last course of the <a href="https://www.coursera.org/specializations/ibm-microservices">IBM Microservices Specialization</a>. Totally not worth the price.
+</ul>
