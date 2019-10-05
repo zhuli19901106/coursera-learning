@@ -702,3 +702,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: css3
 <li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody: Basics of Web Development & Coding Specialization</a>. Still a 5-star course for beginners, well taught.
 </ul>
+
+### Interactivity with JavaScript
+
+<ul>
+<li>Organization: <a href="https://umich.edu/">University of Michigan</a>
+<li>URL: <a href="https://www.coursera.org/learn/javascript">Interactivity with JavaScript | Coursera</a>
+<li>Time: October 6, 2019
+<li>Grade: 100/100
+<li>Topic: javascript
+<li>Review: This is the third course of the <a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody: Basics of Web Development & Coding Specialization</a>. No problem, I think. Just do it.
+</ul>
