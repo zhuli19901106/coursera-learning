@@ -681,17 +681,6 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody: Basics of Web Development & Coding Specialization</a>. It's rookie-friendly.
 </ul>
 
-### Introduction to HTML5
-
-<ul>
-<li>Organization: <a href="https://umich.edu/">University of Michigan</a>
-<li>URL: <a href="https://www.coursera.org/learn/html/">Introduction to HTML5 | Coursera</a>
-<li>Time: September 27, 2019
-<li>Grade: 100/100
-<li>Topic: html5
-<li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody: Basics of Web Development & Coding Specialization</a>. It's rookie-friendly.
-</ul>
-
 ### Introduction to CSS3
 
 <ul>
