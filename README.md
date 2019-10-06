@@ -702,3 +702,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: javascript
 <li>Review: This is the third course of the <a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody: Basics of Web Development & Coding Specialization</a>. No problem, I think. Just do it.
 </ul>
+
+### Advanced Styling with Responsive Design
+
+<ul>
+<li>Organization: <a href="https://umich.edu/">University of Michigan</a>
+<li>URL: <a href="https://www.coursera.org/learn/responsivedesign">Advanced Styling with Responsive Design | Coursera</a>
+<li>Time: October 7, 2019
+<li>Grade: 100/100
+<li>Topic: javascript
+<li>Review: This is the fourth course of the <a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody: Basics of Web Development & Coding Specialization</a>. Done.
+</ul>
