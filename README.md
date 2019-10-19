@@ -713,3 +713,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: javascript
 <li>Review: This is the fourth course of the <a href="https://www.coursera.org/specializations/web-design">Web Design for Everybody: Basics of Web Development & Coding Specialization</a>. Done.
 </ul>
+
+### Divide and Conquer, Sorting and Searching, and Randomized Algorithms
+
+<ul>
+<li>Organization: <a href="https://www.stanford.edu/">Stanford University</a>
+<li>URL: <a href="https://www.coursera.org/learn/algorithms-divide-conquer/">Divide and Conquer, Sorting and Searching, and Randomized Algorithms | Coursera</a>
+<li>Time: October 19, 2019
+<li>Grade: 100/100
+<li>Topic: algorithm
+<li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/algorithms">Algorithms Specialization</a>. It's more about algorithm analysis than coding, so remember to follow the lectures and ready your pen and paper.
+</ul>
