@@ -735,3 +735,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: python
 <li>Review: Take a break.
 </ul>
+
+### Python Data Structures
+
+<ul>
+<li>Organization: <a href="https://umich.edu/">University of Michigan</a>
+<li>URL: <a href="https://www.coursera.org/learn/python-data/">Python Data Structures | Coursera</a>
+<li>Time: May 27, 2020
+<li>Grade: 100/100
+<li>Topic: python
+<li>Review: Take a break.
+</ul>
