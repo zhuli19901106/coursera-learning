@@ -757,3 +757,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: python
 <li>Review: Take it easy.
 </ul>
+
+### Using Databases with Python
+
+<ul>
+<li>Organization: <a href="https://umich.edu/">University of Michigan</a>
+<li>URL: <a href="https://www.coursera.org/learn/python-databases/">Using Databases with Python | Coursera</a>
+<li>Time: June 20, 2020
+<li>Grade: 100/100
+<li>Topic: python
+<li>Review: Take a break.
+</ul>
