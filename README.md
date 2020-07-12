@@ -779,3 +779,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: python
 <li>Review: This is the last course for the specialization. Done.
 </ul>
+
+### Java Programming: Solving Problems with Software
+
+<ul>
+<li>Organization: <a href="https://duke.edu/">Duke University</a>
+<li>URL: <a href="https://www.coursera.org/learn/java-programming/">Java Programming: Solving Problems with Software | Coursera</a>
+<li>Time: July 13, 2020
+<li>Grade: 100/100
+<li>Topic: Java
+<li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/object-oriented-programming">Object Oriented Programming in Java Specialization</a>. To be honest I like the way it's taught and don't care much about the the Duke Java library and the prehistoric BlueJ IDE (seriously?) they provided. <b>Because I did it in Python with minimal efforts.</b> It's totally about problem solving, which renders language irrevelant. I learned nothing from the course, so it's considered sort of leisure.
+</ul>
