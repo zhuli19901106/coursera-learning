@@ -790,3 +790,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: Java
 <li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/object-oriented-programming">Object Oriented Programming in Java Specialization</a>. To be honest I like the way it's taught and don't care much about the Duke Java library and the prehistoric BlueJ IDE (seriously?) they provided. <b>Because I did it in Python with minimal efforts.</b> It's totally about problem-solving, which renders language irrelevant. I learned nothing from the course, so it's considered sort of leisure.
 </ul>
+
+### Java Programming: Arrays, Lists, and Structured Data
+
+<ul>
+<li>Organization: <a href="https://duke.edu/">Duke University</a>
+<li>URL: <a href="https://www.coursera.org/learn/java-programming-arrays-lists-data/">Java Programming: Arrays, Lists, and Structured Data | Coursera</a>
+<li>Time: August 4, 2020
+<li>Grade: 95.1/100
+<li>Topic: Java
+<li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/object-oriented-programming">Object Oriented Programming in Java Specialization</a>. Still it's mostly about problem-solving, so I finished it in Python anyway. This time the challenge is a bit harder, as you're gonna have to do some DFS and pruning when trying to break the Vigenère cipher.
+</ul>
