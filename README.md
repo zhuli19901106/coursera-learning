@@ -801,3 +801,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: Java
 <li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/object-oriented-programming">Object Oriented Programming in Java Specialization</a>. Still it's mostly about problem-solving, so I finished it in Python anyway. This time the challenge is a bit harder, as you're gonna have to do some DFS and pruning when trying to break the Vigenère cipher.
 </ul>
+
+### Introduction to Blockchain Technologies
+
+<ul>
+<li>Organization: <a href="https://www.insead.edu/">INSEAD</a>
+<li>URL: <a href="https://www.coursera.org/learn/introduction-blockchain-technologies/">Introduction to Blockchain Technologies | Coursera</a>
+<li>Time: February 5, 2022
+<li>Grade: 100/100
+<li>Topic: Blockchain
+<li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/blockchain-revolution-enterprise">Blockchain Revolution Specialization</a>. It's been a year and half since I last visited MOOC. This is simply a conceptual introduction on blockchain. Relax and enjoy.
+</ul>
