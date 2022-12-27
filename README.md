@@ -812,3 +812,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: data structure, algorithm, Java
 <li>Review: The lecture speed was <b>a bit too slow</b>, so I had to go at between 1.25x and 1.5x speed to save time. Everything is really well explained, making this course <b>very friendly even for fresh beginners</b>. Actually I signed up for this just to do a little practice in Java programming. Considering the ammount of work devoted to the programming assignments, it was a wise decision to join up, well worth the time and efforts.
 </ul>
+
+### Introduction to Psychology
+
+<ul>
+<li>Organization: <a href="https://www.yale.edu/">Yale University</a>
+<li>URL: <a href="https://www.coursera.org/learn/introduction-psychology/">Introduction to Psychology | Coursera</a>
+<li>Time: December 27, 2022
+<li>Grade: 100/100
+<li>Topic: psychology, cognition
+<li>Review: It's been 5 years since I last learned a course. Just for old times' sake. This is a <b>pure introductory</b> course with <b>well-prepared lectures</b>. Still worth the time.
+</ul>
