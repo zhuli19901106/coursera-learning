@@ -823,3 +823,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: psychology, cognition
 <li>Review: It's been 5 years since I last learned a course. Just for old times' sake. This is a <b>pure introductory</b> course with <b>well-prepared lectures</b>. Still worth the time.
 </ul>
+
+### Introduction to Logic
+
+<ul>
+<li>Organization: <a href="https://www.stanford.edu/">Stanford University</a>
+<li>URL: <a href="https://www.coursera.org/learn/logic-introduction/">Introduction to Logic | Coursera</a>
+<li>Time: December 31, 2022
+<li>Grade: 70/100
+<li>Topic: propositional logic, formal language
+<li>Review: This is a real challenging (mostly on <b>formal logic</b>) and inspiring course from Stanford. It's serious practice with lots of time-consuming and mind-boggling reading and exercises. The course has good tool for formal logic and proof quizzes, but I'd say it's still very challenging due to lack of support and further explanation (an apparent evidence of this MOOC <b>not well-made enough</b>). Some quizzes just need <b>further illustration on the correct answer</b> to ensure better understanding of what's really going on. Also there's basically <b>no video lecture, which proved a big downside for the course.</b> You'll find this course very introductory if you're math major (professionally), but for students like from CS background, you gotta be ready to burn some brain cells for it. Acutally <b>I got stuck on some of the proof quizzes</b> (some I couldn't, some I found buggy) and gave up at last. I just can't afford the <b>indefinite time needed</b> due to my current ongoing career plan. So, I'd <b>cautiously recommend</b> this course to you. Might be a headache, but still worth it for the sake of the <b>training in logical thinking</b>. And, <b>no, I didn't finish the course.</b>
+</ul>
