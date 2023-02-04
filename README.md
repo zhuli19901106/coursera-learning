@@ -834,3 +834,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: propositional logic, formal language
 <li>Review: This is a real challenging (mostly on <b>formal logic</b>) and inspiring course from Stanford. It's serious practice with lots of time-consuming and mind-boggling reading and exercises. The course has good tool for formal logic and proof quizzes, but I'd say it's still very challenging due to lack of support and further explanation (an apparent evidence of this MOOC <b>not well-made enough</b>). Some quizzes just need <b>further illustration on the correct answer</b> to ensure better understanding of what's really going on. Also there's basically <b>no video lecture, which proved a big downside for the course.</b> You'll find this course very introductory if you're math major (professionally), but for students like from CS background, you gotta be ready to burn some brain cells for it. Acutally <b>I got stuck on some of the proof quizzes</b> (some I couldn't, some I found buggy) and gave up at last. I just can't afford the <b>indefinite time needed</b> due to my current ongoing career plan. So, I'd <b>cautiously recommend</b> this course to you. Might be a headache, but still worth it for the sake of the <b>training in logical thinking</b>. And, <b>no, I didn't finish the course.</b>
 </ul>
+
+### Introduction to Cyber Attacks
+
+<ul>
+<li>Organization: <a href="https://www.nyu.edu/">New York University</a>
+<li>URL: <a href="https://www.coursera.org/learn/intro-cyber-attacks/">Introduction to Cyber Attacks | Coursera</a>
+<li>Time: February 4, 2023
+<li>Grade: 100/100
+<li>Topic: information security
+<li>Review: I got my hands full with family matters, so this took me quite a while (extremely slow pace). This is actually a really introductory course on cyber security concepts, which can be finished easily <b>within a day</b>. I'd say it's <b>too "introductory" even by "introduction" standards</b>. The quizzes are also limited to only conceptual stuff and word puzzles. Not very rewarding learning experience, I'm afraid.
+</ul>
