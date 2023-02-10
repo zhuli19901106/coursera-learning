@@ -845,3 +845,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: information security
 <li>Review: I got my hands full with family matters, so this took me quite a while (extremely slow pace). This is actually a really introductory course on cyber security concepts, which can be finished easily <b>within a day</b>. I'd say it's <b>too "introductory" even by "introduction" standards</b>. The quizzes are also limited to only conceptual stuff and word puzzles. Not very rewarding learning experience, I'm afraid.
 </ul>
+
+### Real-Time Cyber Threat Detection and Mitigation
+
+<ul>
+<li>Organization: <a href="https://www.nyu.edu/">New York University</a>
+<li>URL: <a href="https://www.coursera.org/learn/real-time-cyber-threat-detection/">Real-Time Cyber Threat Detection and Mitigation | Coursera</a>
+<li>Time: February 10, 2023
+<li>Grade: 100/100
+<li>Topic: information security
+<li>Review: So I get it. The whole specialization is about conceptual introduction. I'm OK with the course positioning but totally <b>not OK with the quiz</b>, which can be really confusing (intentionally) and all about <b>word puzzles</b>.
+</ul>
