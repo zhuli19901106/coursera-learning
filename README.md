@@ -867,3 +867,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: information security
 <li>Review: As usual, excellent lecture and totally insufferable and BS quizzes.
 </ul>
+
+### Cyber Attack Countermeasures
+
+<ul>
+<li>Organization: <a href="https://www.nyu.edu/">New York University</a>
+<li>URL: <a href="https://www.coursera.org/learn/enterprise-infrastructure-security/">Cyber Attack Countermeasures | Coursera</a>
+<li>Time: February 18, 2023
+<li>Grade: 100/100
+<li>Topic: information security
+<li>Review: As usual, excellent lecture and almost insufferable and BS quizzes.
+</ul>
