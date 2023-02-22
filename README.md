@@ -878,3 +878,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: information security
 <li>Review: As usual, excellent lecture and almost insufferable and BS quizzes.
 </ul>
+
+### Introduction to Marketing
+
+<ul>
+<li>Organization: <a href="https://www.upenn.edu/">University of Pennsylvania</a>
+<li>URL: <a href="https://www.coursera.org/learn/wharton-marketing/">Introduction to Marketing | Coursera</a>
+<li>Time: February 22, 2023
+<li>Grade: 100/100
+<li>Topic: marketing
+<li>Review: Introduction, as usual.
+</ul>
