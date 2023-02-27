@@ -889,3 +889,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: marketing
 <li>Review: Introduction, as usual.
 </ul>
+
+### Introduction to Financial Accounting
+
+<ul>
+<li>Organization: <a href="https://www.upenn.edu/">University of Pennsylvania</a>
+<li>URL: <a href="https://www.coursera.org/learn/wharton-accounting/">Introduction to Financial Accounting | Coursera</a>
+<li>Time: February 27, 2023
+<li>Grade: 98/100
+<li>Topic: marketing
+<li>Review: <b>Accounting is totally boring</b> with lots of rules & memos and a little baby maths, but Professor Bushee tries his best to <b>explain things really well</b> and make the learning experience enjoyable. I'd say this is a course <b>well-taught and beginner-friendly</b>. Nontheless, you should always keep in mind that <b>it is as boring as it is vital</b> for any practitioner in economy or finance industry. Yeah, the first step.
+</ul>
