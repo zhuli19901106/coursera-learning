@@ -900,3 +900,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: marketing
 <li>Review: <b>Accounting is totally boring</b> with lots of rules & memos and a little baby maths, but Professor Bushee tries his best to <b>explain things really well</b> and make the learning experience enjoyable. I'd say this is a course <b>well-taught and beginner-friendly</b>. Nontheless, you should always keep in mind that <b>it is as boring as it is vital</b> for any practitioner in economy or finance industry. Yeah, the first step.
 </ul>
+
+### Managing Social and Human Capital
+
+<ul>
+<li>Organization: <a href="https://www.upenn.edu/">University of Pennsylvania</a>
+<li>URL: <a href="https://www.coursera.org/learn/wharton-social-human-capital/">Managing Social and Human Capital | Coursera</a>
+<li>Time: March 2, 2023
+<li>Grade: 100/100
+<li>Topic: human resource, management
+<li>Review: Lecture and quiz.
+</ul>
