@@ -911,3 +911,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: human resource, management
 <li>Review: Lecture and quiz.
 </ul>
+
+### Introduction to Corporate Finance
+
+<ul>
+<li>Organization: <a href="https://www.upenn.edu/">University of Pennsylvania</a>
+<li>URL: <a href="https://www.coursera.org/learn/wharton-finance/">Introduction to Corporate Finance | Coursera</a>
+<li>Time: March 6, 2023
+<li>Grade: 100/100
+<li>Topic: accounting, finance
+<li>Review: Lecture and quiz. Lectures are good, but the quizzes are a bit too weak and dry.
+</ul>
