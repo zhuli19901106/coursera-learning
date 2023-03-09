@@ -922,3 +922,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: accounting, finance
 <li>Review: Lecture and quiz. Lectures are good, but the quizzes are a bit too weak and dry.
 </ul>
+
+### Supply Chain Logistics
+
+<ul>
+<li>Organization: <a href="https://www.rutgers.edu/">Rutgers, The State University of New Jersey</a>
+<li>URL: <a href="https://www.coursera.org/learn/supply-chain-logistics/">Supply Chain Logistics | Coursera</a>
+<li>Time: March 10, 2023
+<li>Grade: 98.2/100
+<li>Topic: logistics
+<li>Review: This specialization is about <b>logistics</b> and <b>supply chain management</b>. The course is well-designed and <b>both fun and rewarding</b>, with some quizzes and peer-reviewed projects to follow. It's good training on thinking for small business starters. <b>Totally beginner-friendly</b>, so no worry.
+</ul>
