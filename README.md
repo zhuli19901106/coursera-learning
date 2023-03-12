@@ -933,3 +933,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: logistics
 <li>Review: This specialization is about <b>logistics</b> and <b>supply chain management</b>. The course is well-designed and <b>both fun and rewarding</b>, with some quizzes and peer-reviewed projects to follow. It's good training on thinking for small business starters. <b>Totally beginner-friendly</b>, so no worry.
 </ul>
+
+### Supply Chain Operations
+
+<ul>
+<li>Organization: <a href="https://www.rutgers.edu/">Rutgers, The State University of New Jersey</a>
+<li>URL: <a href="https://www.coursera.org/learn/operations/">Supply Chain Operations | Coursera</a>
+<li>Time: March 12, 2023
+<li>Grade: 100/100
+<li>Topic: logistics
+<li>Review: Second course of the <a href="https://www.coursera.org/specializations/supply-chain-management/">specialization</a>. Just do it.
+</ul>
