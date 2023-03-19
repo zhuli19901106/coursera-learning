@@ -955,3 +955,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: logistics
 <li>Review: Third course of the <a href="https://www.coursera.org/specializations/supply-chain-management/">specialization</a>.
 </ul>
+
+### Supply Chain Sourcing
+
+<ul>
+<li>Organization: <a href="https://www.rutgers.edu/">Rutgers, The State University of New Jersey</a>
+<li>URL: <a href="https://www.coursera.org/learn/sourcing/">Supply Chain Sourcing | Coursera</a>
+<li>Time: March 18, 2023
+<li>Grade: 100/100
+<li>Topic: logistics
+<li>Review: Fourth course of the <a href="https://www.coursera.org/specializations/supply-chain-management/">specialization</a>.
+</ul>
