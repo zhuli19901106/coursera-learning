@@ -966,3 +966,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: logistics
 <li>Review: Fourth course of the <a href="https://www.coursera.org/specializations/supply-chain-management/">specialization</a>.
 </ul>
+
+### Protecting Business Innovations via Trademark
+
+<ul>
+<li>Organization: <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a>
+<li>URL: <a href="https://www.coursera.org/learn/protect-business-innovations-trademark/">Protecting Business Innovations via Trademark | Coursera</a>
+<li>Time: March 23, 2023
+<li>Grade: 100/100
+<li>Topic: law
+<li>Review: First course of the <a href="https://www.coursera.org/specializations/protecting-business-innovation/">Protecting Business Innovation Specialization</a>. It's an introduction to law protection knowledge related to setting up a business.
+</ul>
