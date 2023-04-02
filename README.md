@@ -975,5 +975,16 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Time: March 23, 2023
 <li>Grade: 100/100
 <li>Topic: law
-<li>Review: First course of the <a href="https://www.coursera.org/specializations/protecting-business-innovation/">Protecting Business Innovation Specialization</a>. It's an introduction to law protection knowledge related to setting up a business.
+<li>Review: First course of the <a href="https://www.coursera.org/specializations/protecting-business-innovation/">Protecting Business Innovation Specialization</a>. It's an introduction to legal protection knowledge related to setting up a business.
+</ul>
+
+### Protecting Business Innovations via Strategy
+
+<ul>
+<li>Organization: <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a>
+<li>URL: <a href="https://www.coursera.org/learn/protect-business-innovations-strategy/">Protecting Business Innovations via Strategy | Coursera</a>
+<li>Time: April 2, 2023
+<li>Grade: 97.5/100
+<li>Topic: law
+<li>Review: Second course of the <a href="https://www.coursera.org/specializations/protecting-business-innovation/">Protecting Business Innovation Specialization</a>. It's an introduction to legal protection knowledge related to setting up a business.
 </ul>
