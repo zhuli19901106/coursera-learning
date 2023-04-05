@@ -999,3 +999,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: law
 <li>Review: Third course of the <a href="https://www.coursera.org/specializations/protecting-business-innovation/">Protecting Business Innovation Specialization</a>. It's an introduction to legal protection knowledge related to setting up a business.
 </ul>
+
+### Protecting Business Innovations via Copyright
+
+<ul>
+<li>Organization: <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a>
+<li>URL: <a href="https://www.coursera.org/learn/protect-business-innovations-copyright/">Protecting Business Innovations via Copyright | Coursera</a>
+<li>Time: April 6, 2023
+<li>Grade: 100/100
+<li>Topic: law
+<li>Review: Last course of the <a href="https://www.coursera.org/specializations/protecting-business-innovation/">Protecting Business Innovation Specialization</a>. It's an introduction to legal protection knowledge related to setting up a business.
+</ul>
