@@ -1010,3 +1010,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: law
 <li>Review: Last course of the <a href="https://www.coursera.org/specializations/protecting-business-innovation/">Protecting Business Innovation Specialization</a>. It's an introduction to legal protection knowledge related to setting up a business.
 </ul>
+
+### Basics of Cost Accounting: Product Costing
+
+<ul>
+<li>Organization: <a href="https://www.tum.de/">Technische Universität München</a>
+<li>URL: <a href="https://www.coursera.org/learn/basics-of-cost-accounting-product-costing/">Basics of Cost Accounting: Product Costing | Coursera</a>
+<li>Time: April 6, 2023
+<li>Grade: 100/100
+<li>Topic: accounting
+<li>Review: First course of the <a href="https://www.coursera.org/specializations/costaccounting/">Cost Accounting Specialization</a>. It's the first MOOC course of TU München I've every tried. It's <b>very well-made</b>, in that the lectures are both <b>in details</b> and accompanied by <b>sufficient examples and illustrations</b>, to make sure you get ahold of concepts and calculation process. The talking speed is a bit slow, though. I had to play by 2.0x just to feel like normal.
+</ul>
