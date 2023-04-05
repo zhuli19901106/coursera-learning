@@ -988,3 +988,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: law
 <li>Review: Second course of the <a href="https://www.coursera.org/specializations/protecting-business-innovation/">Protecting Business Innovation Specialization</a>. It's an introduction to legal protection knowledge related to setting up a business.
 </ul>
+
+### Protecting Business Innovations via Patent
+
+<ul>
+<li>Organization: <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a>
+<li>URL: <a href="https://www.coursera.org/learn/protect-business-innovations-patent/">Protecting Business Innovations via Patent | Coursera</a>
+<li>Time: April 6, 2023
+<li>Grade: 100/100
+<li>Topic: law
+<li>Review: Third course of the <a href="https://www.coursera.org/specializations/protecting-business-innovation/">Protecting Business Innovation Specialization</a>. It's an introduction to legal protection knowledge related to setting up a business.
+</ul>
