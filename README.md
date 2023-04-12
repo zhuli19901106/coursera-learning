@@ -1032,3 +1032,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: finance
 <li>Review: The course has terrible review and rating, and I see why. The lectures and quizzes are actually <b>better than I expected</b> because the professor is highly skilled and knowledgeable. She knows her stuff too well and go through it too fast without well-formed definitions. Thus, it's a <b>bad course for beginners</b>, as it's totally not learner-friendly per se. I'd suggest you try <a href="https://www.coursera.org/specializations/investment-management/"><b>the finance course from University of Geneva</b></a> instead. Still, the reading notes are very good. Week 5 is a proof that this course was made in a rush. It's supposed to be a full-fledged course called <b>"Introduction to Financial Engineering"</b>, as you see a ton of extra reading notes were provided that could've extended the course by another 3-5 weeks of lectures and quizzes. Guess Wharton was <b>just too lazy to make that happen</b>. I got some FE skills already, well, managed just fine.
 </ul>
+
+### Finance for Everyone: Decisions
+
+<ul>
+<li>Organization: <a href="https://www.mcmaster.ca/">McMaster University</a>
+<li>URL: <a href="https://www.coursera.org/learn/finance-decisions/">Finance for Everyone: Decisions | Coursera</a>
+<li>Time: April 12, 2023
+<li>Grade: 100/100
+<li>Topic: finance
+<li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/finance-for-everyone/">Finance for Everyone Specialization</a> by McMaster University. A really well-made specialization and totally learner-friendly. Good old-fashioned Coursera quality it is.
+</ul>
