@@ -1054,3 +1054,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: finance
 <li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/finance-for-everyone/">Finance for Everyone Specialization</a> by McMaster University. Good one.
 </ul>
+
+### Finance for Everyone: Value
+
+<ul>
+<li>Organization: <a href="https://www.mcmaster.ca/">McMaster University</a>
+<li>URL: <a href="https://www.coursera.org/learn/finance-value/">Finance for Everyone: Value | Coursera</a>
+<li>Time: April 16, 2023
+<li>Grade: 100/100
+<li>Topic: finance
+<li>Review: This is the third course of the <a href="https://www.coursera.org/specializations/finance-for-everyone/">Finance for Everyone Specialization</a> by McMaster University. Good one.
+</ul>
