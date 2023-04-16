@@ -1043,3 +1043,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: finance
 <li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/finance-for-everyone/">Finance for Everyone Specialization</a> by McMaster University. A really well-made specialization and totally learner-friendly. Good old-fashioned Coursera quality it is.
 </ul>
+
+### Finance for Everyone: Markets
+
+<ul>
+<li>Organization: <a href="https://www.mcmaster.ca/">McMaster University</a>
+<li>URL: <a href="https://www.coursera.org/learn/finance-markets/">Finance for Everyone: Markets | Coursera</a>
+<li>Time: April 14, 2023
+<li>Grade: 100/100
+<li>Topic: finance
+<li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/finance-for-everyone/">Finance for Everyone Specialization</a> by McMaster University. Good one.
+</ul>
