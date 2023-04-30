@@ -1065,3 +1065,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: finance
 <li>Review: This is the third course of the <a href="https://www.coursera.org/specializations/finance-for-everyone/">Finance for Everyone Specialization</a> by McMaster University. Good one.
 </ul>
+
+### Understanding Financial Markets
+
+<ul>
+<li>Organization: <a href="https://www.unige.ch/">University of Geneva</a> and <a href="https://www.ubs.com/">UBS</a>
+<li>URL: <a href="https://www.coursera.org/learn/understanding-financial-markets/">Understanding Financial Markets | Coursera</a>
+<li>Time: April 30, 2023
+<li>Grade: 100/100
+<li>Topic: finance
+<li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/investment-management">Investment Management Specialization</a> by University of Geneva and UBS. Very well-prepared and high quality series of courses for finance 101.
+</ul>
