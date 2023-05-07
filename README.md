@@ -1076,3 +1076,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: finance
 <li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/investment-management">Investment Management Specialization</a> by University of Geneva and UBS. Very well-prepared and high quality series of courses for finance 101.
 </ul>
+
+### Meeting Investors' Goals
+
+<ul>
+<li>Organization: <a href="https://www.unige.ch/">University of Geneva</a> and <a href="https://www.ubs.com/">UBS</a>
+<li>URL: <a href="https://www.coursera.org/learn/meeting-investors-goals/">Meeting Investors' Goals | Coursera</a>
+<li>Time: May 7, 2023
+<li>Grade: 94.4/100
+<li>Topic: finance
+<li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/investment-management">Investment Management Specialization</a> by University of Geneva and UBS. Very well-prepared and high quality series of courses for finance 101. This one is about bond and equity markets.
+</ul>
