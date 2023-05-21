@@ -1125,7 +1125,7 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 
 <ul>
 <li>Organization: <a href="https://www.tum.de/">Technische Universität München</a>
-<li>URL: <a href="https://www.coursera.org/learn/basics-of-cost-accounting-product-costing/">Cost Accounting: Profit and Loss Calculation | Coursera</a>
+<li>URL: <a href="https://www.coursera.org/learn/cost-accounting-profit-and-loss-calculation/">Cost Accounting: Profit and Loss Calculation | Coursera</a>
 <li>Time: May 21, 2023
 <li>Grade: 100/100
 <li>Topic: accounting
