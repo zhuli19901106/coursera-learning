@@ -1120,3 +1120,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: finance
 <li>Review: This is the fourth course of the <a href="https://www.coursera.org/specializations/investment-management">Investment Management Specialization</a> by University of Geneva and UBS. Very well-prepared and high quality series of courses for finance 101. This one is about intro to active-vs-passive management comparison, as well as ESG-related topics.
 </ul>
+
+### Cost Accounting: Profit and Loss Calculation
+
+<ul>
+<li>Organization: <a href="https://www.tum.de/">Technische Universität München</a>
+<li>URL: <a href="https://www.coursera.org/learn/basics-of-cost-accounting-product-costing/">Cost Accounting: Profit and Loss Calculation | Coursera</a>
+<li>Time: May 21, 2023
+<li>Grade: 100/100
+<li>Topic: accounting
+<li>Review: Second course of the <a href="https://www.coursera.org/specializations/costaccounting/">Cost Accounting Specialization</a>. The course is still of high quality, but the quizzes have much too complicated calculations that get you confused quite easily. It's number crunching work after all.
+</ul>
