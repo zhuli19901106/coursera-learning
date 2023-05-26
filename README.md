@@ -1131,3 +1131,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: accounting
 <li>Review: Second course of the <a href="https://www.coursera.org/specializations/costaccounting/">Cost Accounting Specialization</a>. The course is still of high quality, but the quizzes have much too complicated calculations that get you confused quite easily. It's number crunching work after all.
 </ul>
+
+### Cost Accounting: Decision Making
+
+<ul>
+<li>Organization: <a href="https://www.tum.de/">Technische Universität München</a>
+<li>URL: <a href="https://www.coursera.org/learn/cost-accounting-decision-making/">Cost Accounting: Decision Making | Coursera</a>
+<li>Time: May 26, 2023
+<li>Grade: 100/100
+<li>Topic: accounting
+<li>Review: Third and last course of the <a href="https://www.coursera.org/specializations/costaccounting/">Cost Accounting Specialization</a>. Good one.
+</ul>
