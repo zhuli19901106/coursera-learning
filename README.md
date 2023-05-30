@@ -1153,3 +1153,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: blockchain
 <li>Review: First course of the <a href="https://www.coursera.org/specializations/web3-blockchain-global-commerce/">Web3 and Blockchain in Global Commerce Specialization</a>. Under the current state (as of 2023) of <b>recession and de-globalization</b>, I'm not exactly confident in the prospects for blockchain industry. But it's still good to <b>learn something and get informed</b>.
 </ul>
+
+### Web3 and Blockchain Transformations in Global Supply Chains
+
+<ul>
+<li>Organization: <a href="https://www.insead.edu/">INSEAD</a>
+<li>URL: <a href="https://www.coursera.org/learn/web3-and-blockchain-transformations-in-global-supply-chains/">Web3 and Blockchain Transformations in Global Supply Chains | Coursera</a>
+<li>Time: May 30, 2023
+<li>Grade: 100/100
+<li>Topic: blockchain
+<li>Review: Second course of the <a href="https://www.coursera.org/specializations/web3-blockchain-global-commerce/">Web3 and Blockchain in Global Commerce Specialization</a>. Under the current state (as of 2023) of <b>recession and de-globalization</b>, I'm not exactly confident in the prospects for blockchain industry. But it's still good to <b>learn something and get informed</b>. This course gives extensive introduction on the application scenarios of blockchain <b>outside cryptocurrencies</b>.
+</ul>
