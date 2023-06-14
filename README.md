@@ -1175,3 +1175,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: blockchain
 <li>Review: Third course of the <a href="https://www.coursera.org/specializations/web3-blockchain-global-commerce/">Web3 and Blockchain in Global Commerce Specialization</a>. Under the current state (as of 2023) of <b>recession and de-globalization</b>, I'm not exactly confident in the prospects for blockchain industry. But it's still good to <b>learn something and get informed</b>. This course is mostly about business insights and methodologies. The lectures are good, but the quizzes are too much of a word game.
 </ul>
+
+### Economics of Money and Banking
+
+<ul>
+<li>Organization: <a href="https://www.columbia.edu/">Columbia University</a>
+<li>URL: <a href="https://www.coursera.org/learn/money-banking/">Economics of Money and Banking | Coursera</a>
+<li>Time: June 15, 2023
+<li>Grade: 100/100
+<li>Topic: finance
+<li>Review: This is one of the <b>best finance course on Coursera</b>. It's been around since day 1, <b>real classic</b>. The whole course is about making sense of <b>money and banking</b> world <b>without delving into calculus and algebra</b>. Nonetheless, some intermediate level of accounting and micro and macroeconomics training will help you better catch up with Professor Mehrling. The content is <b>really abundant and rewarding</b>, just do it. It's not about crunching numbers, though. If you're looking for some quantitative stuff, go to the financial engineering course instead.
+</ul>
