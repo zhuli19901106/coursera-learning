@@ -1186,3 +1186,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: finance
 <li>Review: This is one of the <b>best finance course on Coursera</b>. It's been around since day 1, <b>real classic</b>. The whole course is about making sense of <b>money and banking</b> world <b>without delving into calculus and algebra</b>. Nonetheless, some intermediate level of accounting and micro and macroeconomics training will help you better catch up with Professor Mehrling. The content is <b>really abundant and rewarding</b>, just do it. It's not about crunching numbers, though. If you're looking for some quantitative stuff, go to the financial engineering course instead.
 </ul>
+
+### Protect and Grow Your Freelancing Business
+
+<ul>
+<li>Organization: <a href="https://calarts.edu/">California Institute of the Arts</a>
+<li>URL: <a href="https://www.coursera.org/learn/protect-and-grow-your-business/">Protect and Grow Your Freelancing Business | Coursera</a>
+<li>Time: June 17, 2023
+<li>Grade: 100/100
+<li>Topic: business
+<li>Review: Lectures, you know.
+</ul>
