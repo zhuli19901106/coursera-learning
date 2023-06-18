@@ -1197,3 +1197,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: business
 <li>Review: Lectures, you know.
 </ul>
+
+### Plan a Successful Freelancing Business
+
+<ul>
+<li>Organization: <a href="https://calarts.edu/">California Institute of the Arts</a>
+<li>URL: <a href="https://www.coursera.org/learn/freelancing-business/">Plan a Successful Freelancing Business | Coursera</a>
+<li>Time: June 18, 2023
+<li>Grade: 100/100
+<li>Topic: business
+<li>Review: Lectures, you know.
+</ul>
