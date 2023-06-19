@@ -1208,3 +1208,15 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: business
 <li>Review: Lectures, you know.
 </ul>
+
+### Making Money as a Freelancer
+
+<ul>
+<li>Organization: <a href="https://calarts.edu/">California Institute of the Arts</a>
+<li>URL: <a href="https://www.coursera.org/learn/making-money-freelancing/">Making Money as a Freelancer
+ | Coursera</a>
+<li>Time: June 19, 2023
+<li>Grade: 100/100
+<li>Topic: business
+<li>Review: Nice lectures, although the quizzes are totally BS.
+</ul>
