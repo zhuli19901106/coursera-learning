@@ -1231,3 +1231,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: business
 <li>Review: Nice lectures, although the quizzes are still totally BS.
 </ul>
+
+### Classical Cryptosystems and Core Concepts
+
+<ul>
+<li>Organization: <a href="https://www.cu.edu/">University of Colorado System</a>
+<li>URL: <a href="https://www.coursera.org/learn/classical-cryptosystems/">Classical Cryptosystems and Core Concepts | Coursera</a>
+<li>Time: June 25, 2023
+<li>Grade: 100/100
+<li>Topic: cryptography, information security
+<li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/introduction-applied-cryptography/">Introduction to Applied Cryptography Specialization</a>. Despite being an introductory course, the pace is good with some extensive topics and materials covered. I like it. One interesting fact: the rating of the lecturer on "Rate My Professor" website is terrible, not for being terrible teacher, but for offering a <b>tough course</b>. <b>That's actually a thumb-up for him, I suppose.</b>
+</ul>
