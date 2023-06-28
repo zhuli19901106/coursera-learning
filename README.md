@@ -1242,3 +1242,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: cryptography, information security
 <li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/introduction-applied-cryptography/">Introduction to Applied Cryptography Specialization</a>. Despite being an introductory course, the pace is good with some extensive topics and materials covered. I like it. One interesting fact: the rating of the lecturer on "Rate My Professor" website is terrible, not for being terrible teacher, but for offering a <b>tough course</b>. <b>That's actually a thumb-up for him, I suppose.</b>
 </ul>
+
+### Mathematical Foundations for Cryptography
+
+<ul>
+<li>Organization: <a href="https://www.cu.edu/">University of Colorado System</a>
+<li>URL: <a href="https://www.coursera.org/learn/mathematical-foundations-cryptography/">Mathematical Foundations for Cryptography | Coursera</a>
+<li>Time: June 28, 2023
+<li>Grade: 100/100
+<li>Topic: cryptography, math
+<li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/introduction-applied-cryptography/">Introduction to Applied Cryptography Specialization</a>. Still an introductory course, but I do enjoy the way it's taught. The pace is a bit fast if you're watching at 2.0x speed. Quizzes are simple, but the <b>materials and extensive readings</b> are not (if you're willing to take the time, of course). <b>Math is forever dazzling and forbidding</b>. The rating 4.6/5.0 is underrating this course, from where I stand.
+</ul>
