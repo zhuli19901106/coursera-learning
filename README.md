@@ -1253,3 +1253,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: cryptography, math
 <li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/introduction-applied-cryptography/">Introduction to Applied Cryptography Specialization</a>. Still an introductory course, but I do enjoy the way it's taught. The pace is a bit fast if you're watching at 2.0x speed. Quizzes are simple, but the <b>materials and extensive readings</b> are not (if you're willing to take the time, of course). <b>Math is forever dazzling and forbidding</b>. The rating 4.6/5.0 is underrating this course, from where I stand.
 </ul>
+
+### Symmetric Cryptography
+
+<ul>
+<li>Organization: <a href="https://www.cu.edu/">University of Colorado System</a>
+<li>URL: <a href="https://www.coursera.org/learn/symmetric-crypto/">Symmetric Cryptography | Coursera</a>
+<li>Time: July 6, 2023
+<li>Grade: 100/100
+<li>Topic: cryptography
+<li>Review: This is the third course of the <a href="https://www.coursera.org/specializations/introduction-applied-cryptography/">Introduction to Applied Cryptography Specialization</a>. More intro and examples on cryptography concepts.
+</ul>
