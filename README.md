@@ -1275,3 +1275,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: cryptography
 <li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/applied-crypto/">Applied Cryptography Specialization</a>. Just intro, get it done.
 </ul>
+
+### Cryptographic Hash and Integrity Protection
+
+<ul>
+<li>Organization: <a href="https://www.cu.edu/">University of Colorado System</a>
+<li>URL: <a href="https://www.coursera.org/learn/cryptographic-hash-integrity-protection/">Cryptographic Hash and Integrity Protection | Coursera</a>
+<li>Time: July 14, 2023
+<li>Grade: 100/100
+<li>Topic: cryptography
+<li>Review: This is the fourth course of the <a href="https://www.coursera.org/specializations/applied-crypto/">Applied Cryptography Specialization</a>. Some simple quizzes and peer-reviewed assignments. Do it and wait for the grades.
+</ul>
