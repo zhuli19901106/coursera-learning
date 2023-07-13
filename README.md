@@ -1286,3 +1286,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: cryptography
 <li>Review: This is the fourth course of the <a href="https://www.coursera.org/specializations/applied-crypto/">Applied Cryptography Specialization</a>. Some simple quizzes and peer-reviewed assignments. Do it and wait for the grades.
 </ul>
+
+### Fibonacci Numbers and the Golden Ratio
+
+<ul>
+<li>Organization: <a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology</a>
+<li>URL: <a href="https://www.coursera.org/learn/fibonacci/">Fibonacci Numbers and the Golden Ratio | Coursera</a>
+<li>Time: July 14, 2023
+<li>Grade: 100/100
+<li>Topic: math
+<li>Review: This is a fun course that teaches some interesting facts about the Fibonacci sequence in nature. <b>Utopia of education, if you ask me.</b> You shouldn't learn anything useful here, because you're supposed to enjoy the math and math only.
+</ul>
