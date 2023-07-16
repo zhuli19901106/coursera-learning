@@ -1297,3 +1297,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: math
 <li>Review: This is a fun course that teaches some interesting facts about the Fibonacci sequence in nature. <b>Utopia of education, if you ask me.</b> You shouldn't learn anything useful here, because you're supposed to enjoy the math and math only.
 </ul>
+
+### AWS Cloud Technical Essentials
+
+<ul>
+<li>Organization: <a href="https://aws.amazon.com/">Amazon Web Services</a>
+<li>URL: <a href="https://www.coursera.org/learn/aws-cloud-technical-essentials/">AWS Cloud Technical Essentials | Coursera</a>
+<li>Time: July 16, 2023
+<li>Grade: 100/100
+<li>Topic: cloud computing
+<li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/aws-fundamentals">AWS Fundamentals Specialization</a>. The course itself is a hello-world on the <b>usage of AWS cloud platform</b> from the angle of a solution architect to come up with full hosting and deployment solution for a software product. It's easy for IT professionals (and <b>extremely learner-friendly and high quality for newbies</b>) to catch on, but I'd also give it <b>a big thumb-up</b> for making the learning experience so great. That's AWS, number one of enterprise IT service provider and king of cloud computing. I spent a bit time with every lab on a fresh free-tier account. Perfectly up-to-date course materials that works as expected, to every detail. Respect. <b>Don't skip the labs</b>, that's everything about this course. The quizzes are just small talks on concepts.
+</ul>
