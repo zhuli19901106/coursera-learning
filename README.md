@@ -1308,3 +1308,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: cloud computing
 <li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/aws-fundamentals">AWS Fundamentals Specialization</a>. The course itself is a hello-world on the <b>usage of AWS cloud platform</b> from the angle of a solution architect to come up with full hosting and deployment solution for a software product. It's easy for IT professionals (and <b>extremely learner-friendly and high quality for newbies</b>) to catch on, but I'd also give it <b>a big thumb-up</b> for making the learning experience so great. That's AWS, number one of enterprise IT service provider and king of cloud computing. I spent a bit time with every lab on a fresh free-tier account. Perfectly up-to-date course materials that works as expected, to every detail. Respect. <b>Don't skip the labs</b>, that's everything about this course. The quizzes are just small talks on concepts.
 </ul>
+
+### Information Systems Auditing, Controls and Assurance
+
+<ul>
+<li>Organization: <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a>
+<li>URL: <a href="https://www.coursera.org/learn/information-systems-audit/">Information Systems Auditing, Controls and Assurance | Coursera</a>
+<li>Time: July 18, 2023
+<li>Grade: 100/100
+<li>Topic: audit
+<li>Review: I took the course to learn something about <b>auditing</b>, but it's <b>basically intro on concepts and methodologies</b>. <b>Can't really blame the course after all</b>, as auditing is about hands-on practice on lots of industrial scenarios and projects (which couldn't possibly be delved into in details). Besides the professor's voice is a bit hoarse, along with the accent, making it a bit challenging to make clear of what he said. Course completion is piece of cake, so take it if you'd like a one-day quick lecture on auditing.
+</ul>
