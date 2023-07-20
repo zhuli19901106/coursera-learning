@@ -1319,3 +1319,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: audit
 <li>Review: I took the course to learn something about <b>auditing</b>, but it's <b>basically intro on concepts and methodologies</b>. <b>Can't really blame the course after all</b>, as auditing is about hands-on practice on lots of industrial scenarios and projects (which couldn't possibly be delved into in details). Besides the professor's voice is a bit hoarse, along with the accent, making it a bit challenging to make clear of what he said. Course completion is piece of cake, so take it if you'd like a one-day quick lecture on auditing.
 </ul>
+
+### Matrix Algebra for Engineers
+
+<ul>
+<li>Organization: <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a>
+<li>URL: <a href="https://www.coursera.org/learn/matrix-algebra-engineers/">Matrix Algebra for Engineers | Coursera</a>
+<li>Time: July 20, 2023
+<li>Grade: 100/100
+<li>Topic: math, algebra
+<li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/mathematics-engineers/">Mathematics for Engineers Specialization</a>. Almost the same course you took as freshman. Professor Chasnov always tries his best to <b>make math courses both accessible and interesting</b>. I'm actually looking to complete the course for differential equations. This one is for old times' sake. The rating of 4.9/5.0 is fair, it's excellent and well worth the attention. <b>And yes, it's for engineers (easy day). Proofs and theorems are optional.</b>
+</ul>
