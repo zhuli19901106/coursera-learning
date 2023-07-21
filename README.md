@@ -1330,3 +1330,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: math, algebra
 <li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/mathematics-engineers/">Mathematics for Engineers Specialization</a>. Almost the same course you took as freshman. Professor Chasnov always tries his best to <b>make math courses both accessible and interesting</b>. I'm actually looking to complete the course for differential equations. This one is for old times' sake. The rating of 4.9/5.0 is fair, it's excellent and well worth the attention. <b>And yes, it's for engineers (easy day). Proofs and theorems are optional.</b>
 </ul>
+
+### Migrating to the AWS Cloud
+
+<ul>
+<li>Organization: <a href="https://aws.amazon.com/">Amazon Web Services</a>
+<li>URL: <a href="https://www.coursera.org/learn/aws-fundamentals-migrating-to-the-cloud/">Migrating to the AWS Cloud | Coursera</a>
+<li>Time: July 21, 2023
+<li>Grade: 100/100
+<li>Topic: cloud computing
+<li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/aws-fundamentals">AWS Fundamentals Specialization</a>. <b>Pure lectures on facts</b> about AWS services. Can be finished within an afternoon.
+</ul>
