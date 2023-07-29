@@ -1341,3 +1341,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: cloud computing
 <li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/aws-fundamentals">AWS Fundamentals Specialization</a>. <b>Pure lectures on facts</b> about AWS services. Can be finished within an afternoon.
 </ul>
+
+### Differential Equations for Engineers
+
+<ul>
+<li>Organization: <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a>
+<li>URL: <a href="https://www.coursera.org/learn/differential-equations-engineers/">Differential Equations for Engineers | Coursera</a>
+<li>Time: July 29, 2023
+<li>Grade: 100/100
+<li>Topic: math, differential equation
+<li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/mathematics-engineers/">Mathematics for Engineers Specialization</a>. This course is even better than the one I took in college, in that it's taught in a way that is <b>just as solid but much more interesting</b>. With <b>theories, reasoning & proofs</b> and <b>lots of application examples</b>, you really get an idea of differential equations (mostly ODE, a tiny bit of PDE) in terms of where they came from and how they're gonna help you get things done. The <b>practice problems are well-designed and rather "non-trivial"</b>, unless you're simply enumerating choices to pass the course. I guess it's OK even if you do, solving every problem with complete reasoning and calculation efforts is <b>quite the challenge</b>. Given the time I can spare, I'm able to finish only about 80% of all practice problems (the rest are <b>guesses and enumerations</b> per se.) A solid background with <b>engineering algebra and calculus</b> is preferred and <b><i>almost</i> required</b>. You gotta be ready to do some integrals by hand/heart if you wanna solve stuff quickly. One last reminder, <b>don't skip the practice problems</b> as they help a lot, they really do.
+</ul>
