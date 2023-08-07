@@ -1352,3 +1352,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: math, differential equation
 <li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/mathematics-engineers/">Mathematics for Engineers Specialization</a>. This course is even better than the one I took in college, in that it's taught in a way that is <b>just as solid but much more interesting</b>. With <b>theories, reasoning & proofs</b> and <b>lots of application examples</b>, you really get an idea of differential equations (mostly ODE, a tiny bit of PDE) in terms of where they came from and how they're gonna help you get things done. The <b>practice problems are well-designed and rather "non-trivial"</b>, unless you're simply enumerating choices to pass the course. I guess it's OK even if you do, solving every problem with complete reasoning and calculation efforts is <b>quite the challenge</b>. Given the time I can spare, I'm able to finish only about 80% of all practice problems (the rest are <b>guesses and enumerations</b> per se.) A solid background with <b>engineering algebra and calculus</b> is preferred and <b><i>almost</i> required</b>. You gotta be ready to do some integrals by hand/heart if you wanna solve stuff quickly. One last reminder, <b>don't skip the practice problems</b> as they help a lot, they really do.
 </ul>
+
+### The Evolving Universe
+
+<ul>
+<li>Organization: <a href="https://www.caltech.edu/">California Institute of Technology</a>
+<li>URL: <a href="https://www.coursera.org/learn/evolvinguniverse/">The Evolving Universe | Coursera</a>
+<li>Time: August 7, 2023
+<li>Grade: 95/100
+<li>Topic: physics, astronomy
+<li>Review: Well, this is one of the few courses from <b>Caltech</b> you can take on Coursera. It's a popular science lecture about the evolving process of our universe. Since Caltech is one of the most hard-core places in the world, you still <b>need some solid maths and physics (at least advanced engineering level)</b> to enjoy this course at its fullest (which I sure didn't, being just basic STEM level). TBH, the course is already <b>made extremely superficial and introductory</b> to be <b>minimally accessible to the general public</b>. Otherwise you're gonna get thrown off the orbit at the last 30% percent of the materials and wonder WTF is going on here. All quizzes are made optional to let people pass without getting stuck and there's <b>no certificate eligible nor grades received</b>. Just, enjoy. (To think that the people talking and listening in the classroom <b>are literally geniuses</b>, it's totally OK to have some trouble catching up.)
+</ul>
