@@ -1374,3 +1374,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: cloud computing, devops
 <li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/aws-devops/">DevOps on AWS Specialization</a>. It's too short to be called a course, only the first third.
 </ul>
+
+### Architecting Solutions on AWS
+
+<ul>
+<li>Organization: <a href="https://aws.amazon.com/">Amazon Web Services</a>
+<li>URL: <a href="https://www.coursera.org/learn/architecting-solutions-on-aws/">Architecting Solutions on AWS | Coursera</a>
+<li>Time: August 8, 2023
+<li>Grade: 100/100
+<li>Topic: cloud computing
+<li>Review: This is the third course of the <a href="https://www.coursera.org/specializations/aws-fundamentals/">AWS Fundamentals Specialization</a>. It's a course where you'll act as a <b>solutions architect</b> to design a solution plan for a traditional interactive website project, with proposal details and architecture diagrams as your tools. It's good, <b>practice right to the point and not too much of a hassle</b>.
+</ul>
