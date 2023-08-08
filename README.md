@@ -1363,3 +1363,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: physics, astronomy
 <li>Review: Well, this is one of the few courses from <b>Caltech</b> you can take on Coursera. It's a popular science lecture about the evolving process of our universe. Since Caltech is one of the most hard-core places in the world, you still <b>need some solid maths and physics (at least advanced engineering level)</b> to enjoy this course at its fullest (which I sure didn't, being just basic STEM level). TBH, the course is already <b>made extremely superficial and introductory</b> to be <b>minimally accessible to the general public</b>. Otherwise you're gonna get thrown off the orbit at the last 30% percent of the materials and wonder WTF is going on here. All quizzes are made optional to let people pass without getting stuck and there's <b>no certificate eligible nor grades received</b>. Just, enjoy. (To think that the people talking and listening in the classroom <b>are literally geniuses</b>, it's totally OK to have some trouble catching up.)
 </ul>
+
+### DevOps on AWS: Code, Build, and Test
+
+<ul>
+<li>Organization: <a href="https://aws.amazon.com/">Amazon Web Services</a>
+<li>URL: <a href="https://www.coursera.org/learn/devops-aws-code-build-test/">DevOps on AWS: Code, Build, and Test | Coursera</a>
+<li>Time: August 8, 2023
+<li>Grade: 100/100
+<li>Topic: cloud computing, devops
+<li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/aws-devops/">DevOps on AWS Specialization</a>. It's too short to be called a course, only the first third.
+</ul>
