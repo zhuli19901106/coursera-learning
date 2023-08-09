@@ -1385,3 +1385,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: cloud computing
 <li>Review: This is the third course of the <a href="https://www.coursera.org/specializations/aws-fundamentals/">AWS Fundamentals Specialization</a>. It's a course where you'll act as a <b>solutions architect</b> to design a solution plan for a traditional interactive website project, with proposal details and architecture diagrams as your tools. It's good, <b>practice right to the point and not too much of a hassle</b>.
 </ul>
+
+### DevOps on AWS: Release and Deploy
+
+<ul>
+<li>Organization: <a href="https://aws.amazon.com/">Amazon Web Services</a>
+<li>URL: <a href="https://www.coursera.org/learn/devops-aws-release-deploy/">DevOps on AWS: Release and Deploy | Coursera</a>
+<li>Time: August 9, 2023
+<li>Grade: 100/100
+<li>Topic: cloud computing, devops
+<li>Review: This is the third course of the <a href="https://www.coursera.org/specializations/aws-devops/">DevOps on AWS Specialization</a>. It's really the second third of a short course.
+</ul>
