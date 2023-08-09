@@ -1396,3 +1396,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: cloud computing, devops
 <li>Review: This is the third course of the <a href="https://www.coursera.org/specializations/aws-devops/">DevOps on AWS Specialization</a>. It's really the second third of a short course.
 </ul>
+
+### DevOps on AWS: Operate and Monitor
+
+<ul>
+<li>Organization: <a href="https://aws.amazon.com/">Amazon Web Services</a>
+<li>URL: <a href="https://www.coursera.org/learn/devops-aws-operate-monitor/">DevOps on AWS: Operate and Monitor | Coursera</a>
+<li>Time: August 9, 2023
+<li>Grade: 100/100
+<li>Topic: cloud computing, devops
+<li>Review: This is the fourth course of the <a href="https://www.coursera.org/specializations/aws-devops/">DevOps on AWS Specialization</a>. It's really the last third of a short course.
+</ul>
