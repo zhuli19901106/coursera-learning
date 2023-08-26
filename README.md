@@ -1407,3 +1407,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: cloud computing, devops
 <li>Review: This is the fourth course of the <a href="https://www.coursera.org/specializations/aws-devops/">DevOps on AWS Specialization</a>. It's really the last third of a short course.
 </ul>
+
+### The Science of the Solar System
+
+<ul>
+<li>Organization: <a href="https://www.caltech.edu/">California Institute of Technology</a>
+<li>URL: <a href="https://www.coursera.org/learn/solar-system/">The Science of the Solar System | Coursera</a>
+<li>Time: August 26, 2023
+<li>Grade: 92.3/100
+<li>Topic: astronomy, geology
+<li>Review: This is another astronomy class from Caltech taugh by <b>Professor Mike Brown</b>. He's famous for his research work that <b>basically kicked Pluto out of the planet ranking</b>. The course is a bit more focused on <b>astronomy and geology (yeah, you'll see how important it is for astronomers for their daily lives)</b> that explains various aspects of the solar system. The course is very newbie friendly, so you can rest assured that you'll be able to pass <b>without solving equations and doing complex calculations</b>. Compared to The Evolving Universe course, this one is less formula intensive and doesn't concern so much of nuclear physics. Passing the course is the least important of all, <b>just enjoy the knowledge</b>.
+</ul>
