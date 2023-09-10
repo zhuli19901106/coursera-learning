@@ -1418,3 +1418,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: astronomy, geology
 <li>Review: This is another astronomy class from Caltech taugh by <b>Professor Mike Brown</b>. He's famous for his research work that <b>basically kicked Pluto out of the planet ranking</b>. The course is a bit more focused on <b>astronomy and geology (yeah, you'll see how important it is for astronomers for their daily lives)</b> that explains various aspects of the solar system. The course is very newbie friendly, so you can rest assured that you'll be able to pass <b>without solving equations and doing complex calculations</b>. Compared to The Evolving Universe course, this one is less formula intensive and doesn't concern so much of nuclear physics. Passing the course is the least important of all, <b>just enjoy the knowledge</b>.
 </ul>
+
+### A Law Student's Toolkit
+
+<ul>
+<li>Organization: <a href="https://www.yale.edu/">Yale University</a>
+<li>URL: <a href="https://www.coursera.org/learn/law-student/">A Law Student's Toolkit | Coursera</a>
+<li>Time: September 10, 2023
+<li>Grade: 99/100
+<li>Topic: law
+<li>Review: This is an introductory course in law from Yale. It's basically a <b>very accessible intro</b> into law for <b>non-law majors</b> and <b>preparatory course</b> for <b>law school students</b> who are still in their undergraduate stage. The course content is both <b>concise and condensed</b>, in that you can learn a lot of fresh concepts with clearly explained theories and examples in mere 3 weeks. I took <a href="https://zhuanlan.zhihu.com/p/654321874">some notes</a> and the result turned out to be worthwhile indeed. Expect some case studies and writing work, since there are in total <b>6 peer review assignments</b>. Lots of case briefs if you're willing, the reading part is really <b>no pain no gain</b>, worth the efforts.
+</ul>
