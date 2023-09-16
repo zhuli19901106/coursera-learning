@@ -1429,3 +1429,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: law
 <li>Review: This is an introductory course in law from Yale. It's basically a <b>very accessible intro</b> into law for <b>non-law majors</b> and <b>preparatory course</b> for <b>law school students</b> who are still in their undergraduate stage. The course content is both <b>concise and condensed</b>, in that you can learn a lot of fresh concepts with clearly explained theories and examples in mere 3 weeks. I took <a href="https://zhuanlan.zhihu.com/p/654321874">some notes</a> and the result turned out to be worthwhile indeed. Expect some case studies and writing work, since there are in total <b>6 peer review assignments</b>. Lots of case briefs if you're willing, the reading part is really <b>no pain no gain</b>, worth the efforts.
 </ul>
+
+### Cryptography I
+
+<ul>
+<li>Organization: <a href="https://www.stanford.edu/">Stanford University</a>
+<li>URL: <a href="https://www.coursera.org/learn/crypto/">Cryptography I | Coursera</a>
+<li>Time: September 17, 2023
+<li>Grade: 97.5/100
+<li>Topic: cryptography, information security
+<li>Review: This is one of the <b>founding course of Coursera</b> from Stanford by Professor <b>Dan Boneh</b>, <b>one of the best courses</b> you can possibly find and one like an <b>urban legend</b>. <b>Part I</b> is about basics of cryptography, whereas the <b>gone-forever part II</b> was supposed to be a continuation on some advanced topics in cryptography. It's a shame that ten years after its release, <b>we can no longer enjoy</b> the second part of this classic course. If you got <b>time and infinite patience</b>, please do try the <b>really challenging programming assignments</b>, among which I only did the first one. (<b>Sorry for the laziness</b>, I'm learning several other courses at the same time.) I took notes on this one, here are the <a href="https://zhuanlan.zhihu.com/p/649059824">bits and pieces</a>. The <b>computation and coding part</b> are only intensive within the programming assignment. If you're just for the lectures and quizzes, <b>paying close attention</b> (maybe replay videos several times) and make the best of your <b>logic reasoning</b> would be more than sufficient. Please enjoy.
+</ul>
