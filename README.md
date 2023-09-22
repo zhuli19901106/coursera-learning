@@ -1440,3 +1440,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: cryptography, information security
 <li>Review: This is one of the <b>founding course of Coursera</b> from Stanford by Professor <b>Dan Boneh</b>, <b>one of the best courses</b> you can possibly find and one like an <b>urban legend</b>. <b>Part I</b> is about basics of cryptography, whereas the <b>gone-forever part II</b> was supposed to be a continuation on some advanced topics in cryptography. It's a shame that ten years after its release, <b>we can no longer enjoy</b> the second part of this classic course. If you got <b>time and infinite patience</b>, please do try the <b>really challenging programming assignments</b>, among which I only did the first one. (<b>Sorry for the laziness</b>, I'm learning several other courses at the same time.) I took notes on this one, here are the <a href="https://zhuanlan.zhihu.com/p/649059824">bits and pieces</a>. The <b>computation and coding part</b> are only intensive within the programming assignment. If you're just for the lectures and quizzes, <b>paying close attention</b> (maybe replay videos several times) and make the best of your <b>logic reasoning</b> would be more than sufficient. Please enjoy.
 </ul>
+
+### Vector Calculus for Engineers
+
+<ul>
+<li>Organization: <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a>
+<li>URL: <a href="https://www.coursera.org/learn/vector-calculus-engineers/">Vector Calculus for Engineers | Coursera</a>
+<li>Time: September 22, 2023
+<li>Grade: 100/100
+<li>Topic: math, vector calculus
+<li>Review: This is the third course of the <a href="https://www.coursera.org/specializations/mathematics-engineers/">Mathematics for Engineers Specialization</a>. <b>High quality</b> and <b>adequate difficulty</b>. <b>Vector calculus</b> is actually quite a difficult subject, that's why this course was taught in a way that's <b>accessible enough</b> for STEM (rather than math major) students with standard training in engineering. You'll do revision on some calculus classes and <b>dive a little deeper</b> than you used to at college. <b>The quizzes</b> were very very very easy (<b>compared to whatever way they could have been</b>), just try hard and <b>solve all of them</b>. They were <b>made easy</b> for most learners to <b>be able to pass the course</b>, really.
+</ul>
