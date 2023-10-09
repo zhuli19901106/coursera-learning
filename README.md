@@ -1451,3 +1451,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: math, vector calculus
 <li>Review: This is the third course of the <a href="https://www.coursera.org/specializations/mathematics-engineers/">Mathematics for Engineers Specialization</a>. <b>High quality</b> and <b>adequate difficulty</b>. <b>Vector calculus</b> is actually quite a difficult subject, that's why this course was taught in a way that's <b>accessible enough</b> for STEM (rather than math major) students with standard training in engineering. You'll do revision on some calculus classes and <b>dive a little deeper</b> than you used to at college. <b>The quizzes</b> were very very very easy (<b>compared to whatever way they could have been</b>), just try hard and <b>solve all of them</b>. They were <b>made easy</b> for most learners to <b>be able to pass the course</b>, really.
 </ul>
+
+### Numerical Methods for Engineers
+
+<ul>
+<li>Organization: <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a>
+<li>URL: <a href="https://www.coursera.org/learn/numerical-methods-engineers/">Numerical Methods for Engineers | Coursera</a>
+<li>Time: October 9, 2023
+<li>Grade: 100/100
+<li>Topic: math, numerical analysis, matlab
+<li>Review: This is the fourth course of the <a href="https://www.coursera.org/specializations/mathematics-engineers/">Mathematics for Engineers Specialization</a>. It's a combination of numerical analysis, scientific computing and some MATLAB programming. The course is both <b>fun and challenging</b>. Again, it was well-designed (<b>specifically lowered</b>) on <b>difficulty</b> to make sure learners without some backgrounds in <b>math and physics</b> can catch up <b>with some efforts</b>. The course is a followup on <b>differential equations</b>. This is natural because working on them usually depends heavily on numerical methods. I do hope you know a bit of <b>ODEs and PDEs</b>. Please Enjoy.
+</ul>
