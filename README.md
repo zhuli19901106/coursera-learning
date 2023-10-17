@@ -1462,3 +1462,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: math, numerical analysis, matlab
 <li>Review: This is the fourth course of the <a href="https://www.coursera.org/specializations/mathematics-engineers/">Mathematics for Engineers Specialization</a>. It's a combination of numerical analysis, scientific computing and some MATLAB programming. The course is both <b>fun and challenging</b>. Again, it was well-designed (<b>specifically lowered</b>) on <b>difficulty</b> to make sure learners without some backgrounds in <b>math and physics</b> can catch up <b>with some efforts</b>. The course is a followup on <b>differential equations</b>. This is natural because working on them usually depends heavily on numerical methods. I do hope you know a bit of <b>ODEs and PDEs</b>. Please Enjoy.
 </ul>
+
+### Property and Liability: An Introduction to Law and Economics
+
+<ul>
+<li>Organization: <a href="https://www.wesleyan.edu/">Wesleyan University</a>
+<li>URL: <a href="https://www.coursera.org/learn/property-law-and-economics/">Property and Liability: An Introduction to Law and Economics | Coursera</a>
+<li>Time: October 18, 2023
+<li>Grade: 89.4/100
+<li>Topic: law
+<li>Review: I was looking for some courses on <b>law</b> and this suited me perfectly. It's centered around <b>property and liability laws</b>, but extended the topics to provide you with a birdview of the US and European legal systems. Lectures are <b>very long with a whole lot of interesting case studies</b>. Quizzes are intensive, so don't expect to pass this course without some <b>patience and efforts</b>. As always, I took <a href="https://zhuanlan.zhihu.com/p/661153620">some notes</a> to help digest the rich contents of this course.
+</ul>
