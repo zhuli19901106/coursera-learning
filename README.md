@@ -1473,3 +1473,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: law
 <li>Review: I was looking for some courses on <b>law</b> and this suited me perfectly. It's centered around <b>property and liability laws</b>, but extended the topics to provide you with a birdview of the US and European legal systems. Lectures are <b>very long with a whole lot of interesting case studies</b>. Quizzes are intensive, so don't expect to pass this course without some <b>patience and efforts</b>. As always, I took <a href="https://zhuanlan.zhihu.com/p/661153620">some notes</a> to help digest the rich contents of this course.
 </ul>
+
+### Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python
+
+<ul>
+<li>Organization: <a href="https://www.lmu.de/">Ludwig-Maximilians-Universität München</a>
+<li>URL: <a href="https://www.coursera.org/learn/computers-waves-simulations/">Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python | Coursera</a>
+<li>Time: October 27, 2023
+<li>Grade: 100/100
+<li>Topic: numerical method, python
+<li>Review: Many people are used to <b>MATLAB</b> when dealing with numerical simulations. With python gaining popularity, I tried to find a course that teaches relevant topics with it and found this high quality course from LMU. The topics can be challenging but <b>you're spared</b> from python programming of the <b>entire simulation scripts</b>. <b>Quizzes are much easier</b> (kindly made so) compared to the lectures given. They still take some time with concepts and calculations, though. <b>Trust me</b>, if the jupyter notebooks were <b>graded assignment</b>, this course <b>could've been 10x harder</b>, as the code written were really really <b>elegant, concise, yet sophisticated</b> (a proof of their efforts to prepared this course as best as they could, <b>salute</b>). If I were a newbie, I'd struggle for a long time to make the elastic wave simulation work properly with <b>sufficient accuracy and stability</b>. Numerical method is itself <b>an advanced engineering topic</b>, thus it's hard enough to <b>make it look easy</b>. It would be <b>favorable</b> if you have some prior backgrounds in <b>maths and physics</b>, at least engineering level.
+</ul>
