@@ -1484,3 +1484,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: numerical method, python
 <li>Review: Many people are used to <b>MATLAB</b> when dealing with numerical simulations. With python gaining popularity, I tried to find a course that teaches relevant topics with it and found this high quality course from LMU. The topics can be challenging but <b>you're spared</b> from python programming of the <b>entire simulation scripts</b>. <b>Quizzes are much easier</b> (kindly made so) compared to the lectures given. They still take some time with concepts and calculations, though. <b>Trust me</b>, if the jupyter notebooks were <b>graded assignment</b>, this course <b>could've been 10x harder</b>, as the code written were really really <b>elegant, concise, yet sophisticated</b> (a proof of their efforts to prepared this course as best as they could, <b>salute</b>). If I were a newbie, I'd struggle for a long time to make the elastic wave simulation work properly with <b>sufficient accuracy and stability</b>. Numerical method is itself <b>an advanced engineering topic</b>, thus it's hard enough to <b>make it look easy</b>. It would be <b>favorable</b> if you have some prior backgrounds in <b>maths and physics</b>, at least engineering level.
 </ul>
+
+### Analysis of Algorithms
+
+<ul>
+<li>Organization: <a href="https://www.princeton.edu/">Princeton University</a>
+<li>URL: <a href="https://www.coursera.org/learn/analysis-of-algorithms/">Analysis of Algorithms | Coursera</a>
+<li>Time: November 1, 2023
+<li>Grade: 100/100
+<li>Topic: asymptotic analysis, combinatorics, calculus
+<li>Review: Don't let the name fool you, this is actually the <b>part 1</b> of the <b>Analytic Combinatorics</b> course from Princeton, taught by master computer scientist <a href="https://en.wikipedia.org/wiki/Robert_Sedgewick_(computer_scientist)"><b>Robert Sedgewick</b></a>. I tried my best to follow the lectures and solve problems. I'd say that I'm able to handle only 10% ~ 15% of the contents. This course is <b>more than challenging</b>, as some of the problems are still open for SOTA research. If you're look for a great depth in combinatorics, this is the place of <b>"ad infinitum"</b>. Mostly it's about combinatorics and generating function, but it helps a lot if know some <b>algebra, calculus, number theory, differential equations, symbolic logic, formal language and basic programming</b> (solving real problems tends to require a <b>mixed skill set</b>). Passing quizzes means nothing literally. It's important that you <b>truly understand generating functions</b> well enough to apply them on real problems. My notes are <a href="https://zhuanlan.zhihu.com/p/663901380">here</a>, even though they're almost broken.
+</ul>
