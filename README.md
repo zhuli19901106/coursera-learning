@@ -1495,3 +1495,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: asymptotic analysis, combinatorics, calculus
 <li>Review: Don't let the name fool you, this is actually the <b>part 1</b> of the <b>Analytic Combinatorics</b> course from Princeton, taught by master computer scientist <a href="https://en.wikipedia.org/wiki/Robert_Sedgewick_(computer_scientist)"><b>Robert Sedgewick</b></a>. I tried my best to follow the lectures and solve problems. I'd say that I'm able to handle only 10% ~ 15% of the contents. This course is <b>more than challenging</b>, as some of the problems are still open for SOTA research. If you're look for a great depth in combinatorics, this is the place of <b>"ad infinitum"</b>. Mostly it's about combinatorics and generating function, but it helps a lot if know some <b>algebra, calculus, number theory, differential equations, symbolic logic, formal language and basic programming</b> (solving real problems tends to require a <b>mixed skill set</b>). Passing quizzes means nothing literally. It's important that you <b>truly understand generating functions</b> well enough to apply them on real problems. My notes are <a href="https://zhuanlan.zhihu.com/p/663901380">here</a>, even though they're almost broken.
 </ul>
+
+### Introduction to solar cells
+
+<ul>
+<li>Organization: <a href="https://www.dtu.dk/">Technical University of Denmark</a>
+<li>URL: <a href="https://www.coursera.org/learn/solar-cells/">Introduction to solar cells | Coursera</a>
+<li>Time: November 30, 2023
+<li>Grade: 100/100
+<li>Topic: solar energy
+<li>Review: This course is <b>well-justified</b> to its name "introduction". It provides a basic intro into the <b>solar cell industry</b>, including its <b>working mechanism, fabrication and analysis of various key characteristics</b>. The contents are of <b>high quality</b> (at the time of its creation). There are a few <b>downsides</b>, though. The video lectures are really short (compared to the really long reading materials) and many <b>URL links are long broken</b>. It's a 101 course for <b>pure layman</b>, like me. If you have sufficient backgrounds in <b>material science</b> or <b>energy</b>, it's gonna be too easy for you.
+</ul>
