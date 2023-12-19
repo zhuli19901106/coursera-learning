@@ -1506,3 +1506,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: solar energy
 <li>Review: This course is <b>well-justified</b> to its name "introduction". It provides a basic intro into the <b>solar cell industry</b>, including its <b>working mechanism, fabrication and analysis of various key characteristics</b>. The contents are of <b>high quality</b> (at the time of its creation). There are a few <b>downsides</b>, though. The video lectures are really short (compared to the really long reading materials) and many <b>URL links are long broken</b>. It's a 101 course for <b>pure layman</b>, like me. If you have sufficient backgrounds in <b>material science</b> or <b>energy</b>, it's gonna be too easy for you.
 </ul>
+
+### Photovoltaic Systems
+
+<ul>
+<li>Organization: <a href="https://www.dtu.dk/">Technical University of Denmark</a>
+<li>URL: <a href="https://www.coursera.org/learn/photovoltaic-systems/">Photovoltaic Systems | Coursera</a>
+<li>Time: December 12, 2023
+<li>Grade: 97.6/100
+<li>Topic: solar energy
+<li>Review: Similar to the previous course, this one is still an introductory course on solar panels from DTU, but <b>in much greater details</b> and <b>with a more extensive coverage</b>. The course materials and lectures are of great quality. Only imperfection is that some of the lectures have <b>corrupted audio</b> that sounds <b>really weird</b>. It would be <b>favorable</b> to have some prior training in <b>electrical engineering</b> (schematics, electronics, freshman physics, etc.) before taking this course.
+</ul>
