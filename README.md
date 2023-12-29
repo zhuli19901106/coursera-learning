@@ -1517,3 +1517,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: solar energy
 <li>Review: Similar to the previous course, this one is still an introductory course on solar panels from DTU, but <b>in much greater details</b> and <b>with a more extensive coverage</b>. The course materials and lectures are of great quality. Only imperfection is that some of the lectures have <b>corrupted audio</b> that sounds <b>really weird</b>. It would be <b>favorable</b> to have some prior training in <b>electrical engineering</b> (schematics, electronics, freshman physics, etc.) before taking this course.
 </ul>
+
+### Synapses, Neurons and Brains
+
+<ul>
+<li>Organization: <a href="https://www.huji.ac.il/">Hebrew University of Jerusalem</a>
+<li>URL: <a href="https://www.coursera.org/learn/synapses/">Synapses, Neurons and Brains | Coursera</a>
+<li>Time: December 29, 2023
+<li>Grade: 100/100
+<li>Topic: neurobiology
+<li>Review: TBH, I didn't know <b>what to expect</b> when first started with this course, like a blank sheet of paper. Luckily, I was content with what I got at last, knowledge, inspiration, questions, answers. This course was very thought-provoking and <b>well balanced</b> on <b>technicality and accessibility</b>. The research on human brain is on its long expedition to infinity, let's <b>be patient</b> and <b>persevere</b>. A <a href="https://zhuanlan.zhihu.com/p/673201947">learning note</a> was taken during the course.
+</ul>
