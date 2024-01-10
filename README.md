@@ -1528,3 +1528,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: neurobiology
 <li>Review: TBH, I didn't know <b>what to expect</b> when first started with this course, like a blank sheet of paper. Luckily, I was content with what I got at last, knowledge, inspiration, questions, answers. This course was very thought-provoking and <b>well balanced</b> on <b>technicality and accessibility</b>. The research on human brain is on its long expedition to infinity, let's <b>be patient</b> and <b>persevere</b>. A <a href="https://zhuanlan.zhihu.com/p/673201947">learning note</a> was taken during the course.
 </ul>
+
+### Physics 102 - Electric Charges and Fields
+
+<ul>
+<li>Organization: <a href="https://www.rice.edu/">Rice University</a>
+<li>URL: <a href="https://www.coursera.org/learn/physics-102-electric-charges-fields/">Physics 102 - Electric Charges and Fields | Coursera</a>
+<li>Time: January 10, 2024
+<li>Grade: 89.5/100
+<li>Topic: physics
+<li>Review: This is totally <b>college physics class</b>, be ready for some calculus. Don't worry about the difficulty, it's <b>quite moderate</b>. What really amazed me was the way Professor Hafner tried to make this course <b>as interesting as possible</b>. He really did the best and it worked. Enjoy it. This is the first course of the <a href="https://www.coursera.org/specializations/introduction-to-electricity-magnetism">Introduction to Electricity and Magnetism Specialization</a>. Only reminder is that you should be patient with the calculations in the quizzes. None of the problems was too hard, but it sure took some time to work out every detail. <a href="https://zhuanlan.zhihu.com/p/675847030">Notes</a> were taken here.
+</ul>
