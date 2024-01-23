@@ -1539,3 +1539,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: physics
 <li>Review: This is totally <b>college physics class</b>, be ready for some calculus. Don't worry about the difficulty, it's <b>quite moderate</b>. What really amazed me was the way Professor Hafner tried to make this course <b>as interesting as possible</b>. He really did the best and it worked. Enjoy it. This is the first course of the <a href="https://www.coursera.org/specializations/introduction-to-electricity-magnetism">Introduction to Electricity and Magnetism Specialization</a>. Only reminder is that you should be patient with the calculations in the quizzes. None of the problems was too hard, but it sure took some time to work out every detail. <a href="https://zhuanlan.zhihu.com/p/675847030">Notes</a> were taken here.
 </ul>
+
+### Physics 102 - Electric Potential and DC Circuits
+
+<ul>
+<li>Organization: <a href="https://www.rice.edu/">Rice University</a>
+<li>URL: <a href="https://www.coursera.org/learn/physics-102-electric-potential-and-dc-circuits/">Physics 102 - Electric Potential and DC Circuits | Coursera</a>
+<li>Time: January 23, 2024
+<li>Grade: 89.7/100
+<li>Topic: physics
+<li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/introduction-to-electricity-magnetism">Introduction to Electricity and Magnetism Specialization</a>. More about electrics and some intro into circuits, especially on resistors and capacitors. <a href="https://zhuanlan.zhihu.com/p/675847030">Notes</a> were taken here. I've been rather occupied with family affairs, otherwise this should be done within a day or two.
+</ul>
