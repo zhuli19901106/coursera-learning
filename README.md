@@ -1550,3 +1550,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: physics
 <li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/introduction-to-electricity-magnetism">Introduction to Electricity and Magnetism Specialization</a>. More about electrics and some intro into circuits, especially on resistors and capacitors. <a href="https://zhuanlan.zhihu.com/p/675847030">Notes</a> were taken here. I've been rather occupied with family affairs, otherwise this should be done within a day or two.
 </ul>
+
+### Physics 102 - Magnetic Fields and Faraday's Law
+
+<ul>
+<li>Organization: <a href="https://www.rice.edu/">Rice University</a>
+<li>URL: <a href="https://www.coursera.org/learn/physics-102-magnetic-fields-faradays-law/">Physics 102 - Magnetic Fields and Faraday's Law | Coursera</a>
+<li>Time: February 2, 2024
+<li>Grade: 96.0/100
+<li>Topic: physics
+<li>Review: This is the third course of the <a href="https://www.coursera.org/specializations/introduction-to-electricity-magnetism">Introduction to Electricity and Magnetism Specialization</a>. Basically it's all about <b>magnetics</b> and a tiny bit of intro into <b>Maxwell's equations</b>. For an electromagnetics course, this one is extremely easy (considering that you usually deal with <b>symmetric cases</b> and <b>simple calculus</b>). Just remember that <b>electromagnetics is super hardcore physics</b> when it's for real. As always, I was <b>100% happy</b> with what I went through. <a href="https://zhuanlan.zhihu.com/p/675847030">Notes</a> were taken here. Seriously, it's <b>still a bit challenging</b> to get everything right.
+</ul>
