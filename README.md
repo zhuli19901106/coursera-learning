@@ -1561,3 +1561,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: physics
 <li>Review: This is the third course of the <a href="https://www.coursera.org/specializations/introduction-to-electricity-magnetism">Introduction to Electricity and Magnetism Specialization</a>. Basically it's all about <b>magnetics</b> and a tiny bit of intro into <b>Maxwell's equations</b>. For an electromagnetics course, this one is extremely easy (considering that you usually deal with <b>symmetric cases</b> and <b>simple calculus</b>). Just remember that <b>electromagnetics is super hardcore physics</b> when it's for real. As always, I was <b>100% happy</b> with what I went through. <a href="https://zhuanlan.zhihu.com/p/675847030">Notes</a> were taken here. Seriously, it's <b>still a bit challenging</b> to get everything right.
 </ul>
+
+### Fundamentals of Reinforcement Learning
+
+<ul>
+<li>Organization: <a href="https://www.ualberta.ca/">University of Alberta</a>
+<li>URL: <a href="https://www.coursera.org/learn/fundamentals-of-reinforcement-learning/">Fundamentals of Reinforcement Learning | Coursera</a>
+<li>Time: March 18, 2024
+<li>Grade: 100/100
+<li>Topic: physics
+<li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/reinforcement-learning/">Reinforcement Learning Specialization</a> from the <b>University of Alberta</b>. It was almost 4 years ago since I first took the course. So much happened afterwards and life was probably changed forever for me. Guess I just gotta face it and move on. The course is OK, <b>high quality</b> and <b>excellent text book</b>. For the whole specialization, you can expect to get a 101 on reinforcement learning. Will recommend it for a <b>starter</b>. No need to worry about the difficulty of programming assignments, you'll be enjoying a <b>step-by-step guide</b> of RL on Jupyter notebooks.
+</ul>
