@@ -1569,6 +1569,17 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>URL: <a href="https://www.coursera.org/learn/fundamentals-of-reinforcement-learning/">Fundamentals of Reinforcement Learning | Coursera</a>
 <li>Time: March 18, 2024
 <li>Grade: 100/100
-<li>Topic: physics
+<li>Topic: reinforcement learning
 <li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/reinforcement-learning/">Reinforcement Learning Specialization</a> from the <b>University of Alberta</b>. It was almost 4 years ago since I first took the course. So much happened afterwards and life was probably changed forever for me. Guess I just gotta face it and move on. The course is OK, <b>high quality</b> and <b>excellent text book</b>. For the whole specialization, you can expect to get a 101 on reinforcement learning. Will recommend it for a <b>starter</b>. No need to worry about the difficulty of programming assignments, you'll be enjoying a <b>step-by-step guide</b> of RL on Jupyter notebooks.
+</ul>
+
+### Sample-based Learning Methods
+
+<ul>
+<li>Organization: <a href="https://www.ualberta.ca/">University of Alberta</a>
+<li>URL: <a href="https://www.coursera.org/learn/sample-based-learning-methods/">Sample-based Learning Methods | Coursera</a>
+<li>Time: April 3, 2024
+<li>Grade: 100/100
+<li>Topic: reinforcement learning
+<li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/reinforcement-learning/">Reinforcement Learning Specialization</a> from the <b>University of Alberta</b>. Some of the basic and very classic statistical methods of RL were taught in this course. Due to conciseness of the video lectures, some <b>extra reading and digging</b> are recommended for a better mastery of skills.
 </ul>
