@@ -1583,3 +1583,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: reinforcement learning
 <li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/reinforcement-learning/">Reinforcement Learning Specialization</a> from the <b>University of Alberta</b>. Some of the basic and very classic statistical methods of RL were taught in this course. Due to conciseness of the video lectures, some <b>extra reading and digging</b> are recommended for a better mastery of skills.
 </ul>
+
+### Prediction and Control with Function Approximation
+
+<ul>
+<li>Organization: <a href="https://www.ualberta.ca/">University of Alberta</a>
+<li>URL: <a href="https://www.coursera.org/learn/prediction-control-function-approximation/">Prediction and Control with Function Approximation | Coursera</a>
+<li>Time: April 13, 2024
+<li>Grade: 100/100
+<li>Topic: reinforcement learning
+<li>Review: This is the third course of the <a href="https://www.coursera.org/specializations/reinforcement-learning/">Reinforcement Learning Specialization</a> from the <b>University of Alberta</b>. The key word is "function approximation", which means it's more about <b>learning and optimization</b>, especially with gradient methods. This course is <b>a bit more mathy</b> but OK.
+</ul>
