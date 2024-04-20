@@ -1594,3 +1594,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: reinforcement learning
 <li>Review: This is the third course of the <a href="https://www.coursera.org/specializations/reinforcement-learning/">Reinforcement Learning Specialization</a> from the <b>University of Alberta</b>. The key word is "function approximation", which means it's more about <b>learning and optimization</b>, especially with gradient methods. This course is <b>a bit more mathy</b> but OK.
 </ul>
+
+### A Complete Reinforcement Learning System (Capstone)
+
+<ul>
+<li>Organization: <a href="https://www.ualberta.ca/">University of Alberta</a>
+<li>URL: <a href="https://www.coursera.org/learn/complete-reinforcement-learning-system/">A Complete Reinforcement Learning System (Capstone) | Coursera</a>
+<li>Time: April 20, 2024
+<li>Grade: 100/100
+<li>Topic: reinforcement learning
+<li>Review: This is the last course of the <a href="https://www.coursera.org/specializations/reinforcement-learning/">Reinforcement Learning Specialization</a> from the <b>University of Alberta</b>. Sort of, uh..., too easy for a <b>capstone project</b>. Nonetheless, it's <b>great fun</b>. My <a href="https://zhuanlan.zhihu.com/p/282242067">learning notes</a> for the entire specialization is thus concluded.
+</ul>
