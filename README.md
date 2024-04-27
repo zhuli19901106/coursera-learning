@@ -1605,3 +1605,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: reinforcement learning
 <li>Review: This is the last course of the <a href="https://www.coursera.org/specializations/reinforcement-learning/">Reinforcement Learning Specialization</a> from the <b>University of Alberta</b>. Sort of, uh..., too easy for a <b>capstone project</b>. Nonetheless, it's <b>great fun</b>. My <a href="https://zhuanlan.zhihu.com/p/282242067">learning notes</a> for the entire specialization is thus concluded.
 </ul>
+
+### Physics 102 - AC Circuits and Maxwell's Equations
+
+<ul>
+<li>Organization: <a href="https://www.rice.edu/">Rice University</a>
+<li>URL: <a href="https://www.coursera.org/learn/physics-102-ac-circuits-maxwell-equations/">Physics 102 - AC Circuits and Maxwell's Equations | Coursera</a>
+<li>Time: April 27, 2024
+<li>Grade: 97.5/100
+<li>Topic: physics
+<li>Review: This is the last course of the <a href="https://www.coursera.org/specializations/introduction-to-electricity-magnetism">Introduction to Electricity and Magnetism Specialization</a>. The title says everything: AC circuit and Maxwell's equation. The Maxwell's equations are <b>super super hard</b>, so you'll be given a <b>super super super simplified</b> version of its teaching. Take it easy. Still, try your best to understand <b>Gauss' law</b> and <b>Faraday's law</b> as much as you could, you'll need them. My <a href="https://zhuanlan.zhihu.com/p/675847030">notes</a> for this entire specialization is concluded.
+</ul>
