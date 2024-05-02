@@ -1616,3 +1616,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: physics
 <li>Review: This is the last course of the <a href="https://www.coursera.org/specializations/introduction-to-electricity-magnetism">Introduction to Electricity and Magnetism Specialization</a>. The title says everything: AC circuit and Maxwell's equation. The Maxwell's equations are <b>super super hard</b>, so you'll be given a <b>super super super simplified</b> version of its teaching. Take it easy. Still, try your best to understand <b>Gauss' law</b> and <b>Faraday's law</b> as much as you could, you'll need them. My <a href="https://zhuanlan.zhihu.com/p/675847030">notes</a> for this entire specialization is concluded.
 </ul>
+
+### Prompt Engineering for ChatGPT
+
+<ul>
+<li>Organization: <a href="https://www.vanderbilt.edu/">Vanderbilt University</a>
+<li>URL: <a href="https://www.coursera.org/learn/prompt-engineering/">Prompt Engineering for ChatGPT | Coursera</a>
+<li>Time: May 2, 2024
+<li>Grade: 100/100
+<li>Topic: large language model
+<li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/prompt-engineering">Prompt Engineering Specialization</a>. I'm 100% confident that <b>prompt engineering is totally BS</b> after taking this course. You may <b>actively learn nothing</b> after about 4 hours of video lectures. <a href="https://zhuanlan.zhihu.com/p/695709266">Learning note</a> is here.
+</ul>
