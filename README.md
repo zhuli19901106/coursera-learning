@@ -1627,3 +1627,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: large language model
 <li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/prompt-engineering">Prompt Engineering Specialization</a>. I'm 100% confident that <b>prompt engineering is totally BS</b> after taking this course. You may <b>actively learn nothing</b> after about 4 hours of video lectures. <a href="https://zhuanlan.zhihu.com/p/695709266">Learning note</a> is here.
 </ul>
+
+### ChatGPT Advanced Data Analysis
+
+<ul>
+<li>Organization: <a href="https://www.vanderbilt.edu/">Vanderbilt University</a>
+<li>URL: <a href="https://www.coursera.org/learn/chatgpt-advanced-data-analysis/">ChatGPT Advanced Data Analysis | Coursera</a>
+<li>Time: May 5, 2024
+<li>Grade: 100/100
+<li>Topic: large language model
+<li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/prompt-engineering">Prompt Engineering Specialization</a>. You don't learn nothing from this. It's a fraud.
+</ul>
