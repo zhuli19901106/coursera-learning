@@ -1638,3 +1638,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: large language model
 <li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/prompt-engineering">Prompt Engineering Specialization</a>. You don't learn nothing from this. It's a fraud.
 </ul>
+
+### Trustworthy Generative AI
+
+<ul>
+<li>Organization: <a href="https://www.vanderbilt.edu/">Vanderbilt University</a>
+<li>URL: <a href="https://www.coursera.org/learn/trustworthy-generative-ai/">Trustworthy Generative AI | Coursera</a>
+<li>Time: May 5, 2024
+<li>Grade: 100/100
+<li>Topic: large language model
+<li>Review: This is the last course of the <a href="https://www.coursera.org/specializations/prompt-engineering">Prompt Engineering Specialization</a>. I can't believe Vanderbilt would do this, <b>the reputation</b>.
+</ul>
