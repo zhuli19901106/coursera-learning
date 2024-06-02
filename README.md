@@ -1649,3 +1649,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: large language model
 <li>Review: This is the last course of the <a href="https://www.coursera.org/specializations/prompt-engineering">Prompt Engineering Specialization</a>. I can't believe Vanderbilt would do this, <b>the reputation</b>.
 </ul>
+
+### Computational Neuroscience
+
+<ul>
+<li>Organization: <a href="https://www.washington.edu/">University of Washington</a>
+<li>URL: <a href="https://www.coursera.org/learn/computational-neuroscience/">Computational Neuroscience | Coursera</a>
+<li>Time: June 2, 2024
+<li>Grade: 96.6/100
+<li>Topic: neuroscience
+<li>Review: This is a standalone course on <b>computational neuroscience</b> by University of Washington. It's about 40% computation (quite easy) and 60% neuroscience (a bit advanced). You can always trust UW for its reputation and quality. Please enjoy. You'll get <b>some hands-on practice</b> as well. It's fun. As usual, <a href="https://zhuanlan.zhihu.com/p/698521522">my learning notes</a> are here.
+</ul>
