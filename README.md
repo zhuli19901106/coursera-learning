@@ -1671,3 +1671,14 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>Topic: circuit analysis
 <li>Review: This is the DC part of <b>circuit analysis course</b> from Gatech. Very excellent and good old-fashioned course on <b>circuitry</b>. As usual, <a href="https://zhuanlan.zhihu.com/p/698517428">my learning notes</a> are here. The <b>quizzes have some errors</b> that'll never be fixed, but I couldn't care less because I'm <b>auditing</b> and not paying for a certificate. Actually the <b>abundance of practice problems</b> can be both <b>rewarding and tiring</b>, do what you think is worth the time on this course.
 </ul>
+
+### Linear Circuits 2: AC Analysis
+
+<ul>
+<li>Organization: <a href="https://www.gatech.edu/">Georgia Institute of Technology</a>
+<li>URL: <a href="https://www.coursera.org/learn/linear-circuits-ac-analysis/"> Linear Circuits 2: AC Analysis | Coursera</a>
+<li>Time: June 27, 2024
+<li>Grade: 100/100
+<li>Topic: circuit analysis
+<li>Review: This is the AC part of <b>circuit analysis course</b> from Gatech. Very excellent and good old-fashioned course on <b>circuitry</b>. As usual, <a href="https://zhuanlan.zhihu.com/p/698517428">my learning notes</a> are here. The second course is actually <b>shorter and easier</b> than the first. If you wish to learn more, it's good to move on to the <b>"Introduction to Electronics"</b> course from Gatech.
+</ul>
