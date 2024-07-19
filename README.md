@@ -20,6 +20,17 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 
 ## Finished Courses
 
+### Organic Solar Cells - Theory and Practice
+
+<ul>
+<li>Organization: <a href="https://www.dtu.dk/">Technical University of Denmark</a>
+<li>URL: <a href="https://www.coursera.org/learn/solar-cell/">Organic Solar Cells - Theory and Practice | Coursera</a>
+<li>Time: July 19, 2024
+<li>Grade: 100/100
+<li>Topic: solar cell, material science
+<li>Review: Another solar cell course from DTU, except that this one is about <b>organic</b>. Unless you have prior backgrounds in <b>chemical engineering</b> and <b>material science</b>, your experience with this course will probably be limited to <b>popular science lectures</b>, which was exactly how I felt. My learning notes are <a href="https://zhuanlan.zhihu.com/p/708659131">here</a>.
+</ul>
+
 ### Introduction to Electronics
 
 <ul>
@@ -203,7 +214,7 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>URL: <a href="https://www.coursera.org/learn/photovoltaic-systems/">Photovoltaic Systems | Coursera</a>
 <li>Time: December 12, 2023
 <li>Grade: 97.6/100
-<li>Topic: solar energy
+<li>Topic: solar cell
 <li>Review: Similar to the previous course, this one is still an introductory course on solar panels from DTU, but <b>in much greater details</b> and <b>with a more extensive coverage</b>. The course materials and lectures are of great quality. Only imperfection is that some of the lectures have <b>corrupted audio</b> that sounds <b>really weird</b>. It would be <b>favorable</b> to have some prior training in <b>electrical engineering</b> (schematics, electronics, freshman physics, etc.) before taking this course.
 </ul>
 
@@ -214,7 +225,7 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 <li>URL: <a href="https://www.coursera.org/learn/solar-cells/">Introduction to solar cells | Coursera</a>
 <li>Time: November 30, 2023
 <li>Grade: 100/100
-<li>Topic: solar energy
+<li>Topic: solar cell
 <li>Review: This course is <b>well-justified</b> to its name "introduction". It provides a basic intro into the <b>solar cell industry</b>, including its <b>working mechanism, fabrication and analysis of various key characteristics</b>. The contents are of <b>high quality</b> (at the time of its creation). There are a few <b>downsides</b>, though. The video lectures are really short (compared to the really long reading materials) and many <b>URL links are long broken</b>. It's a 101 course for <b>pure layman</b>, like me. If you have sufficient backgrounds in <b>material science</b> or <b>energy</b>, it's gonna be too easy for you.
 </ul>
 
