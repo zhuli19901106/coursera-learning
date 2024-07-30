@@ -20,6 +20,17 @@ If you think you've found something useful here, feel free to leave a star. <b>I
 
 ## Finished Courses
 
+### Beginning Custom Projects with Raspberry Pi
+
+<ul>
+<li>Organization: <a href="https://www.jhu.edu/">Johns Hopkins University</a>
+<li>URL: <a href="https://www.coursera.org/learn/beginning-custom-projects-with-raspberry-pi/">Beginning Custom Projects with Raspberry Pi | Coursera</a>
+<li>Time: July 30, 2024
+<li>Grade: 100/100
+<li>Topic: linux, raspberry pi
+<li>Review: This is the first course of the <a href="https://www.coursera.org/specializations/raspberry-pi">Powering your Home Projects with Raspberry Pi Specialization</a>. It's a <b>project-based course</b> with lots of fun and covering <b>a wide range of skillsets</b>, including <b>physics, electronics and programming</b>. You do need (to buy) a <b>Raspberry Pi chip</b> and some <b>sensor toolkit</b> to do your own labs. Trust me, this course is all about <b>doing something</b> with your own chip. My learning notes are <a href="https://zhuanlan.zhihu.com/p/707737739">here</a>.
+</ul>
+
 ### Organic Solar Cells - Theory and Practice
 
 <ul>
