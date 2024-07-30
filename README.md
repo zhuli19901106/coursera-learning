@@ -12,10 +12,6 @@ For those who might be interested in starting their own journey in MOOC platform
 
 <a href="https://zhuanlan.zhihu.com/p/35366209">Coursera Learning Notes</a> by Zhu Li on 2018.4.6.
 
-<b>All archives in this repo are locked, please don't bother cracking, there's nothing valuable inside after all, just a pile of my old homework.</b>
-
-If you think you've found something useful here, feel free to leave a star. <b>I'll be glad to know if my action is making this world better, by raising a helping hand.</b>
-
 <hr>
 
 ## Finished Courses
