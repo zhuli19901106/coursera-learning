@@ -16,6 +16,17 @@ For those who might be interested in starting their own journey in MOOC platform
 
 ## Finished Courses
 
+### Fundamentals of Digital Image and Video Processing
+
+<ul>
+<li>Organization: <a href="https://www.northwestern.edu/">Northwestern University</a>
+<li>URL: <a href="https://www.coursera.org/learn/digital/">Fundamentals of Digital Image and Video Processing | Coursera</a>
+<li>Time: August 16, 2024
+<li>Grade: 100/100
+<li>Topic: linear algebra, image processing
+<li>Review: This is a very <b>content-rich</b> standalone course on <b>image and video processing</b>. Although introductory, it's a bit <b>math-heavy</b> and <b>quite rewarding</b> if you got the patience to go through all the 12 weeks. Each week is concluded by some theory Q & A and one programming test. Be ready to do some <b>python or MATLAB</b>. I got me a long learning note here, <a href="https://zhuanlan.zhihu.com/p/712244751">part 1</a> and <a href="https://zhuanlan.zhihu.com/p/714907001">part 2</a>. Personally I think it's <b>worth the time</b> and enjoyable.
+</ul>
+
 ### Beginning Custom Projects with Raspberry Pi
 
 <ul>
