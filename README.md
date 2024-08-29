@@ -16,6 +16,17 @@ For those who might be interested in starting their own journey in MOOC platform
 
 ## Finished Courses
 
+### Communications and High-Speed Signals with Raspberry Pi
+
+<ul>
+<li>Organization: <a href="https://www.jhu.edu/">Johns Hopkins University</a>
+<li>URL: <a href="https://www.coursera.org/learn/communications-and-high-speed-signals-with-raspberry-pi/">Communications and High-Speed Signals with Raspberry Pi | Coursera</a>
+<li>Time: August 30, 2024
+<li>Grade: 100/100
+<li>Topic: linux, raspberry pi
+<li>Review: This is the second course of the <a href="https://www.coursera.org/specializations/raspberry-pi">Powering your Home Projects with Raspberry Pi Specialization</a>. This is a relatively easy one on <b>DSP</b>, with some <b>empiricals</b> introduced. <b>No labs</b> involved. My learning notes are <a href="https://zhuanlan.zhihu.com/p/715174826">here</a>.
+</ul>
+
 ### Fundamentals of Digital Image and Video Processing
 
 <ul>
